@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr"
+title                    : "Dr WANG Yi"
 title_separator          : "-"
-name                     : &name "Yi Wang"
-description              : &description "RAP"
+name                     : &name "WANG Yi"
+description              : &description "Reseach Assistant Professor"
 url                      : https://wangyintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WangyiNTU/WangyiNTU.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Yi Wang"
   avatar           : "profile2.png"
-  bio              : "Data Scientist"
+  bio              : "Reseach Assistant Professor"
   location         :
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   facebook         :
   foursquare       :
   github           : "WangyiNTU"
-  gitlab           : "WangyiNTU"
+  gitlab           : #"WangyiNTU"
   google_plus      :
   keybase          :
   instagram        :
