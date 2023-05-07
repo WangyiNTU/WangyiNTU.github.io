@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Dr"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : WangyiNTU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yi Wang"
+description              : &description "RAP"
+url                      : https://wangyintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WangyiNTU/WangyiNTU.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Yi Wang"
   avatar           : "profile.png"
   bio              : "Data Scientist"
   location         :
