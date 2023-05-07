@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electronic and Information Engineering ([EiE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
 
-I earned my Ph.D in Political Science from the
+I received the BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University ([NPU](https://en.nwpu.edu.cn/)), China in 2013 and 2016, respectively, and earned the PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), Singapore in 2021. My PhD is supervised by [Prof. Chau Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) who worked as a Associate Prof. in NTU (till 2022) and currently a Prof. in PolyU. 
+
+Prior to joining PolyU, I worked as a Research Fellow in School of EEE, NTU, Singapore from 2020 to 2023. I was advised by [Prof. Yap Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044) from EEE, NTU. 
+
+<!-- My co-authors and colleagues of the research group include  -->
+
+<!-- I earned my PhD in Political Science from the
 [University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
 B.A. in Political Science from [Haverford College](https://www.haverford.edu).
 My academic work has been [published](publications) or is forthcoming in
@@ -27,4 +29,4 @@ focused on civil conflict, it also examines contentious political phenomena
 including terrorism and economic statecraft, and develops new measures of
 institutions in international relations. I have [teaching](teaching) experience
 in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+instructor with [The Carpentries](https://carpentries.org). -->
