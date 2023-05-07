@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr WANG Yi"
+title                    : "Dr"
 title_separator          : "-"
-name                     : &name "Yi WANG"
-description              : &description "Research Assistant Professor in HK PolyU"
+name                     : &name "Yi Wang"
+description              : &description "RAP"
 url                      : "https://wangyintu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://wangyintu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "WangyiNTU/WangyiNTU.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : #"fosstodon.org/@jayrobw"
+  username               : "fosstodon.org/@jayrobw"
 twitter:
   username               : 
 facebook:
@@ -90,10 +90,10 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0001-8659-4724"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en"
-  email            : "yi-eie.wang@polyu.edu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Yi-Wang-569" # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "rob.williams@wustl.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,15 +101,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WangyiNTU"
-  gitlab           : "WangyiNTU"
+  github           : "jayrobwilliams"
+  gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yi-wang-479757ab"
-  mastodon         : #"fosstodon.org/@jayrobw"
+  linkedin         : "jayrobwilliams"
+  mastodon         : "fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
