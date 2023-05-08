@@ -6,16 +6,19 @@ years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 author_profile: true
 ---
 
+#### Full Publication List
+[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)
+
 <!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
 #### Papers
 
