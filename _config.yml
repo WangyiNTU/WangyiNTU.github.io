@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WANG Yi’s Homepage"
 title_separator          : "-"
 name                     : &name "Dr. WANG Yi"
-description              : &description "Reseach Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
+description              : &description "Research Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
 url                      : https://wangyintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WangyiNTU/WangyiNTU.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Dr. WANG Yi"
   avatar           : "profile2.png"
-  bio              : "Reseach Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
+  bio              : "Research Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
   location         :
   employer         : 
   pubmed           :
