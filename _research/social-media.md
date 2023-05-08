@@ -3,7 +3,7 @@ title: "Social media data"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ternary.png' alt=''>"
 collection: research
-order_number: 40
+order_number: 80
 header: 
   og_image: "research/ternary.png"
 ---
