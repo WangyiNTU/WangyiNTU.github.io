@@ -3,7 +3,7 @@ title: "Conflict event data"
 layout: single-portfolio
 excerpt: "<img src='/images/research/map.png' alt=''>"
 collection: research
-order_number: 20
+order_number: 40
 header: 
   og_image: "research/map.png"
 ---
