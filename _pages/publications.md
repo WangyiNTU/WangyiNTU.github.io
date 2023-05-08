@@ -26,7 +26,7 @@ author_profile: true
 
 {% for y in page.years %}
   <div>{{y}}</div>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
+  {% publications -f pubs -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
