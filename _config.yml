@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr WANG Yi"
 title_separator          : "-"
 name                     : &name "WANG Yi"
-description              : &description "Reseach Assistant Professor"
+description              : &description "Reseach Assistant Professor of Hong Kong PolyU"
 url                      : https://wangyintu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WangyiNTU/WangyiNTU.github.io"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Wang"
+  name             : "WANG Yi"
   avatar           : "profile2.png"
   bio              : "Reseach Assistant Professor"
   location         :
