@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr WANG Yi"
+title                    : "WANG Yi"
 title_separator          : "-"
 name                     : &name "WANG Yi"
 description              : &description "Reseach Assistant Professor in Hong Kong PolyU"
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "WANG Yi"
+  name             : "Dr. WANG Yi"
   avatar           : "profile2.png"
-  bio              : "Reseach Assistant Professor in Hong Kong PolyU"
+  bio              : "Reseach Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
   location         :
   employer         :
   pubmed           :
