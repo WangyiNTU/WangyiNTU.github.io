@@ -2,7 +2,6 @@
 layout: archive
 title: "Selected Publications"
 permalink: /publications/
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016]
 author_profile: true
 ---
 
@@ -20,16 +19,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!-- 
-#### Papers
-
-<div class="publications">
-
-{% for y in page.years %}
-  <div>{{y}}</div>
-  {% -f pubs -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
 
 <sup>*</sup> Corresponding authorship
