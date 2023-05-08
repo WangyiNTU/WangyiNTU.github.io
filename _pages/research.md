@@ -1,33 +1,27 @@
 ---
 layout: archive
-title: "Research"
+title: "Visual Sensing, Enhancement, and Analytics in Complex Scenes"
 permalink: /research/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+In recent years, image processing and computer vision technologies have made tremendous progress in various applications, such as video surveillance, autonomous driving, crowd analysis, and intelligent traffic systems. However, many challenges exist in complex environments when 1) images have quality degradation and deterioration due to low light, bad weather, and data loss, or 2) images have complex content, such as dense crowds, heavy traffic, and object occlusion. These complex scenes in computer vision significantly hinder the effective use of images or videos. Therefore, sensing, enhancement, and analytics of complex visual information have become an important scientific and technological problem.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+#### Research Topics
+1. Visual sensing: underwater sensing, ego-centric view sensing, UAV remote sensing, and multi-modality sensing.
+2. Visual enhancement: underwater image restoration, low-light image enhancement, and image/video recovery with bitstream errors.
+3. Visual analytics: dense crowd localization and counting, image recognition in all-weather scenes, and open-world object detection and tracking.
+
+
+#### Achievements
+1. Image restoration in complex underwater environments
+2. Image restoration in bitstream-corrupted JPEG images
+3. Weakly-supervised crowd detection and counting
+4. Unconstrained license plate detection and recognition
+
 
 <nbsp>
 
