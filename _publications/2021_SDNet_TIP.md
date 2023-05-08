@@ -7,7 +7,7 @@ venue: 'IEEE'
 paperurl: '/files/pdf/research/2021_SDNet_TIP.pdf'
 link: 'https://arxiv.org/abs/2007.12831v3'
 github: 'https://github.com/WangyiNTU/Point-supervised-crowd-detection'
-citation: 'Yi Wang, Junhui Hou, Xinyu Hou, and Lap-Pui Chau. &quot;A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds.&quot; <i>IEEE TIP 2021</i> DOI: 10.1109/TIP.2021.3055632'
+citation: 'Yi Wang, Junhui Hou, Xinyu Hou, and Lap-Pui Chau. &quot;A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds.&quot; <i>IEEE TIP 2021</i> DOI:10.1109/TIP.2021.3055632'
 ---
 
 #### Citation
