@@ -15,12 +15,15 @@ I received the BEng in Electronic and Information Engineering and MEng in Signal
 Prior to joining PolyU, I worked as a Research Fellow in School of EEE, NTU, Singapore from 2020 to 2023. I was advised by [Assoc. Prof. YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044) from EEE, NTU. Prior to goint to Singapore, I studied and worked in NPU, China, from 2009 to 2016, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## News
+* [2023.04] I join Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
+* [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper is accepted in CVPR, 2023.
 
-{% include base_path %}
+
+<!-- {% include base_path %}
 
 {% for post in site.news reversed %}
   {% include news.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- My co-authors and colleagues of the research group include  -->
 
