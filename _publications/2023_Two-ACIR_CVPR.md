@@ -7,7 +7,9 @@ venue: 'Vancouver, Canada'
 paperurl: '/files/pdf/research/2023_Two-ACIR_CVPR.pdf'
 link: 'https://arxiv.org/abs/2304.06976'
 github: 'https://github.com/wenyang001/Two-ACIR'
-citation: '
+---
+
+### Citation
 ```
 @article{liu2023bitstream,
   title={Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration},
@@ -16,5 +18,3 @@ citation: '
   year={2023}
 }
 ```
-'
----
