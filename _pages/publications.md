@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Full Publication List
-[Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en)
+#### Full Publication List: [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en)
 
 <!-- 
 {% if author.googlescholar %}
