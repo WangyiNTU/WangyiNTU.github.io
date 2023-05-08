@@ -1,5 +1,5 @@
 ---
-title: "Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration (CVPR2023)"
+title: "CVPR2023: Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration"
 collection: conference
 permalink: /publication/2023_Two-ACIR_CVPR
 date: 2023-06-18
