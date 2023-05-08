@@ -1,5 +1,5 @@
 ---
-title: "2. Image Restoration in Bitstream-Corrupted JPEG Images"
+title: "Image Restoration in Bitstream-Corrupted JPEG Images"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Two-ACIR.png' alt=''>"
 collection: research
