@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Yi"
+title                    : "WANG Yi’s Homepage"
 title_separator          : "-"
 name                     : &name "Dr. WANG Yi"
 description              : &description "Reseach Assistant Professor in Hong Kong PolyU | Artificial Intelligence | Image/Video Analytics"
