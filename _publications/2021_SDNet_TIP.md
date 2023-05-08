@@ -2,7 +2,7 @@
 title: "A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds (IEEE TIP2021)"
 collection: journal
 permalink: /publication/2021_SDNet_TIP
-date: 2021
+date: 2021-02-04
 venue: 'IEEE'
 paperurl: '/files/pdf/research/2021_SDNet_TIP.pdf'
 link: 'https://arxiv.org/abs/2007.12831v3'
