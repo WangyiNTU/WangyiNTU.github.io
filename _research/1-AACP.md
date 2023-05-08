@@ -1,5 +1,5 @@
 ---
-title: "1.Image Restoration in Complex Underwater Environments"
+title: "Image Restoration in Complex Underwater Environments"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AACP.png' alt=''>"
 collection: research
