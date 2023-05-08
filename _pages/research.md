@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Visual Enhancement, and Analytics in Complex Scenes"
+title: "Visual Enhancement and Analytics in Complex Scenes"
 permalink: /research/
 author_profile: true
 header:
