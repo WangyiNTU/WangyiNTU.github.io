@@ -4,7 +4,7 @@ title: "Visual Enhancement and Analytics in Complex Scenes"
 permalink: /research/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: "research/Two-ACIR.png"
 ---
 
 In recent years, image processing and computer vision technologies have made tremendous progress in various applications, such as video surveillance, autonomous driving, crowd analysis, and intelligent traffic systems. However, many challenges exist in complex environments when 1) images have quality degradation and deterioration due to low light, bad weather, and data loss, or 2) images have complex content, such as dense crowds, heavy traffic, and object occlusion. These complex scenes in computer vision significantly hinder the effective use of images or videos. Therefore, sensing, enhancement, and analytics of complex visual information have become an important scientific and technological problem.
