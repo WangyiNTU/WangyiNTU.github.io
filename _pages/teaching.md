@@ -3,26 +3,21 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+I will provide post-graduate course on [Video Technology](https://www.polyu.edu.hk/eie/-/media/department/eie/programme/all-syllabi/msc_2022/eie546.pdf) (View the Introductory Video [here](https://www.eie.polyu.edu.hk/prog/syllabus/EIE546_Promotion.mp4)) in [Hong Kong PolyU](https://www.polyu.edu.hk/),
+which is smoothly taked over from [Assoc. Prof. CHAN Yui-Lam](https://www.polyu.edu.hk/eie/people/academic-staff/dr-chan-yui-lam/). 
 
+You can view my teaching syllabus [here](https://www.polyu.edu.hk/eie/-/media/department/eie/programme/all-syllabi/msc_2022/eie546.pdf).
+This subject provides an in-depth discussion on a wide range of important and current 
+techniques on digital videos. 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+Upon completion of the subject, students will be able to: 
+1. describe the basic principles of video technologies, such as video coding, video standards, video surveillance, 3D videos, video communications, video processing for IoT applications; 
+2. describe the operational principles of one or two advanced topics of video technology and give evaluations; 
+3. perform literature survey; give professional report, analysis, and/or carry out practical realization of video processing algorithms; 
+4. appreciate and take up the related engineering work on video technology, and
+5. carry out initial research work on video technology.
 
+<!-- 
 ## Washington University in St. Louis
 - Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
     - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
@@ -37,4 +32,4 @@ from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
 ## ICPSR Summer Program
 - Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+    - [Syllabus](/files/pdf/teaching/bayes2017.pdf) -->
