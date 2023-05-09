@@ -15,7 +15,7 @@ I received the BEng in Electronic and Information Engineering and MEng in Signal
 Prior to joining PolyU, I worked as a Research Fellow in School of EEE, NTU, Singapore from 2020 to 2023. I was advised by [Assoc. Prof. YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044) from EEE, NTU. Prior to goint to Singapore, I studied and worked in NPU, China, from 2009 to 2016, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## Recruitment/招生
-We are currently actively recruiting image/video processing, computer vision, and AI talents, including Research Fellows, PhD students (including self-finance), Master by Research (including self-finance) to join our group in Hong Kong Polytechnic University.
+We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows, PhD students (including self-finance), Master by Research (including self-finance) to join our group in Hong Kong Polytechnic University.
 
 You can click [here](https://forms.office.com/r/WKHmJEaBDb) if you are interested!
 
