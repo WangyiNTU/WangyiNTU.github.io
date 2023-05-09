@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electronic and Information Engineering ([EiE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electronic and Information Engineering ([EiE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
 
 I received the BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China in 2013 and 2016, respectively, and earned the PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), Singapore in 2021. My PhD is supervised by [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) who worked as a Associate Prof. in NTU (till 2022) and currently a Prof. in PolyU. 
 
 Prior to joining PolyU, I worked as a Research Fellow in School of EEE, NTU, Singapore from 2020 to 2023. I was advised by [Assoc. Prof. YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044) from EEE, NTU. Prior to goint to Singapore, I studied and worked in NPU, China, from 2009 to 2016, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
+
+## Recruitment/招生
+We are currently actively recruiting image/video processing, computer vision, and AI talents, including Research Fellows, PhD students (including self-finance), Master by Research (including self-finance) to join our group in Hong Kong Polytechnic University.
+
+You can click [here](https://forms.office.com/r/WKHmJEaBDb) if you are interested!
 
 ## News
 * [2023.04] I join Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
