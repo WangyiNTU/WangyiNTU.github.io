@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Full Publication List: [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en)
+## Full Publication List: [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yi-Wang-569)
 
 <!-- 
 {% if author.googlescholar %}
