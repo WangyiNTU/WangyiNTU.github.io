@@ -17,11 +17,13 @@ Prior to joining PolyU, I worked as a Research Fellow in School of EEE, NTU, Sin
 ## Recruitment/招生
 We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows, PhD students (including self-finance), Master by Research (including self-finance) to join our group in Hong Kong Polytechnic University.
 
-You can click [here](https://forms.office.com/r/WKHmJEaBDb) if you are interested!
+You can fill [here](https://forms.office.com/r/WKHmJEaBDb) or email me if you are interested!
 
 ## News
-* [2023.04] I join Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
-* [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper is accepted in CVPR, 2023.
+* [2023.05] I was in the role as Associate Editor of [The Visual Computer](https://www.springer.com/journal/371) Journal.
+* [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
+* [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper was accepted in CVPR 2023.
+* [2023.02] Our papers were accepted by ISCAS, DCC, and AICAS 2023.
 
 
 <!-- {% include base_path %}
