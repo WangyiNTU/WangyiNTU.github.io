@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 I will provide post-graduate course on [Video Technology](https://www.polyu.edu.hk/eie/-/media/department/eie/programme/all-syllabi/msc_2022/eie546.pdf) (View the Introductory Video [here](https://www.eie.polyu.edu.hk/prog/syllabus/EIE546_Promotion.mp4)) in [Hong Kong PolyU](https://www.polyu.edu.hk/),
-which is smoothly taked over from [Assoc. Prof. CHAN Yui-Lam](https://www.polyu.edu.hk/eie/people/academic-staff/dr-chan-yui-lam/). 
+which is smoothly taken over from [Assoc. Prof. CHAN Yui-Lam](https://www.polyu.edu.hk/eie/people/academic-staff/dr-chan-yui-lam/). 
 
 You can view my teaching syllabus [here](https://www.polyu.edu.hk/eie/-/media/department/eie/programme/all-syllabi/msc_2022/eie546.pdf).
 This subject provides an in-depth discussion on a wide range of important and current 
