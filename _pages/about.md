@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electronic and Information Engineering ([EiE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electronic and Information Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
 
 I received the BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, in 2013 and 2016, respectively, and earned the PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore in 2021. My PhD is supervised by Dr. CHAU Lap Pui who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU. 
 
@@ -17,13 +17,16 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU from 2021 to 20
 ## Recruitment/招生
 We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows, PhD students (including self-finance), and Master of Philosophy (including self-finance) to join our group at Hong Kong Polytechnic University.
 
-You can email me if you are interested.
+I am hiring self-finance MPhil students in Jan and May 2024 (application due is four months before intake). You can email me if you are interested.
 <!---
 fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 -->
 
 ## News
-* [2023.05] I was in the role as Associate Editor of [The Visual Computer](https://www.springer.com/journal/371) Journal.
+* [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
+* [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student, and I am co-supervisor and supervisor. The lab's website will be constructed.
+* [2023.06] I have been working with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) in PolyU and constructing the __JC STEM Lab of Machine Learning and Computer Vision__.
+* [2023.05] I was in the role of Associate Editor of [The Visual Computer](https://www.springer.com/journal/371) Journal.
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
 * [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper was accepted in CVPR 2023.
 * [2023.02] Our papers related to multimedia forensics were accepted by ISCAS, DCC, and AICAS 2023.
