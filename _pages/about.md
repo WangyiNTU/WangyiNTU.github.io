@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/). My research interest includes Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics.
 
-I received the BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, in 2013 and 2016, respectively, and earned the PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore in 2021. My PhD is supervised by Dr. CHAU Lap Pui who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU. 
+I received the BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, and earned the PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore, in 2021. My PhD is supervised by Dr. CHAU Lap Pui, who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU. 
 
-Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU from 2021 to 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and robotics center in NPU, China, from 2009 to 2016, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
+Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## Recruitment/招生
 We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows, PhD students (including self-finance), and Master of Philosophy (including self-finance) to join our group at Hong Kong Polytechnic University.
@@ -24,7 +24,7 @@ fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 
 ## News
 * [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
-* [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student, and I am co-supervisor and supervisor. The lab's website will be constructed.
+* [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student until the 2023 Fall, and I am co-supervisor and supervisor. The lab's website will be constructed.
 * [2023.07] I was invited to give a talk titled __Machine Learning in Multimedia Forensics__ by [Cyber Security and Technology Crime Bureau](https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/tcd.html), Hong Kong Police Force.
 * [2023.06] I have been working with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) in PolyU and constructing the __JC STEM Lab of Machine Learning and Computer Vision__.
 * [2023.05] I was in the role of Associate Editor of [The Visual Computer](https://www.springer.com/journal/371) Journal.
