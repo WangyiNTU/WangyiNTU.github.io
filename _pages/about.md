@@ -23,13 +23,13 @@ fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 -->
 
 ## News
-* [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580) about __AI-powered multimedia computing__ in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal.
+* [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580), __AI-powered multimedia computing__, in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal, as __Gust Editor__.
 * [2023.09] Our paper, [Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method](https://arxiv.org/abs/2309.13890), with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset) was accepted at __NeurIPS 2023__.
 * [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
 * [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student, and I am co-supervisor and supervisor. The lab's website will be constructed.
 * [2023.07] I was invited to give a talk titled __Machine Learning in Multimedia Forensics__ by [Cyber Security and Technology Crime Bureau](https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/tcd.html), Hong Kong Police Force.
 * [2023.06] I have been working with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) in PolyU and constructing the __JC STEM Lab of Machine Learning and Computer Vision__.
-* [2023.05] I was in the role of Associate Editor of [The Visual Computer](https://www.springer.com/journal/371) Journal.
+* [2023.05] I was in the role of __Associate Editor__ of [The Visual Computer](https://www.springer.com/journal/371) Journal.
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
 * [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper was accepted at __CVPR 2023__.
 * [2023.02] Our papers related to multimedia forensics were accepted by ISCAS, DCC, and AICAS 2023.
