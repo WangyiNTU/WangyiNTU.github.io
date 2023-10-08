@@ -15,7 +15,7 @@ I received the BEng in Electronic and Information Engineering and MEng in Signal
 Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## Recruitment/招生
-We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows, PhD students (including self-finance), and Master of Philosophy (including self-finance) to join our group at Hong Kong Polytechnic University.
+We are currently actively recruiting image/video processing, computer vision, 3D reconstruction, and AI talents, including Research Fellows (3 positions), PhD students (including self-finance), and self-finance Master of Philosophy to join our group at Hong Kong Polytechnic University.
 
 I am hiring self-finance MPhil students in Jan and May 2024 (application due is four months before intake). You can email me if you are interested.
 <!---
@@ -23,7 +23,8 @@ fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 -->
 
 ## News
-* [2023.09] Our __Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method__ paper with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset) was accepted at NeurIPS 2023.
+* [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580) about AI-powered multimedia visual computing in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal.
+* [2023.09] Our paper, __[Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method](https://arxiv.org/abs/2309.13890)__, with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset) was accepted at NeurIPS 2023.
 * [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
 * [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student until the 2023 Fall, and I am co-supervisor and supervisor. The lab's website will be constructed.
 * [2023.07] I was invited to give a talk titled __Machine Learning in Multimedia Forensics__ by [Cyber Security and Technology Crime Bureau](https://www.police.gov.hk/ppp_en/04_crime_matters/tcd/tcd.html), Hong Kong Police Force.
