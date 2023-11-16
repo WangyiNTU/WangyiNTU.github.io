@@ -23,6 +23,7 @@ fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 -->
 
 ## News
+* [2023.10] I am one of __Special Session Organizers__ and __Review Committee Members__ of the [ISCAS 2024](https://2024.ieee-iscas.org).
 * [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580), __AI-powered multimedia computing__, in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal, as __Gust Editor__.
 * [2023.09] Our paper, [Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method](https://arxiv.org/abs/2309.13890), with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset) was accepted at __NeurIPS 2023__.
 * [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
