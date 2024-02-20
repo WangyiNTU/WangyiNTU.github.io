@@ -19,7 +19,7 @@ In recent years, image processing and computer vision technologies have made tre
 ## Achievements
 1. Image restoration in complex underwater environments
 2. Image restoration in bitstream-corrupted JPEG images
-3. Weakly-supervised crowd detection and counting
+3. Weakly supervised crowd detection and counting
 4. Unconstrained license plate detection and recognition
 
 
@@ -36,3 +36,7 @@ In recent years, image processing and computer vision technologies have made tre
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %} -->
+
+# Research Grants
+
+-	Oct 2023 – Jun 2025, **PolyU Start-Up Fund**, **PI:** Visual Sensing, Restoration, and Analytics in Complex Scenes.
