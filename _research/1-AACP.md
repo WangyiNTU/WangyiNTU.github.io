@@ -1,5 +1,5 @@
 ---
-title: "Image Restoration in Complex Underwater Environments"
+title: "Image Restoration in Complex Underwater Environments, IEEE TCAS-I, 2018"
 layout: single-portfolio
 excerpt: "<img src='/images/research/AACP.png' alt=''>"
 collection: research
