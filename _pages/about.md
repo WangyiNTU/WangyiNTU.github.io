@@ -14,12 +14,6 @@ I received the BEng in Electronic and Information Engineering and MEng in Signal
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
-## Recruitment/招生
-We are currently actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including Research Fellows (1 position for 3D Vision), PhD students (including self-finance), and self-finance Master of Philosophy to join our group at Hong Kong Polytechnic University.
-
-<!---
-fill [here](https://forms.office.com/r/WKHmJEaBDb) or
--->
 
 ## News
 * [2024.01] Our image captioning papers ([Weakly-Supervised Grounded Image Captioning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686) and [Remote Sensing Image Change Captioning](https://www.mdpi.com/2072-4292/15/23/5611)) were accepted at __Knowledge-based System__ and __Remote Sensing__, respectively.
@@ -34,6 +28,14 @@ fill [here](https://forms.office.com/r/WKHmJEaBDb) or
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
 * [2023.03] Our [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) paper was accepted at __CVPR 2023__.
 * [2023.02] Our papers related to multimedia forensics were accepted by ISCAS, DCC, and AICAS 2023.
+
+
+## Recruitment/招生
+We are currently actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including Research Fellows (1 position for 3D Vision), PhD students (including self-finance), and self-finance Master of Philosophy to join our group at Hong Kong Polytechnic University.
+
+<!---
+fill [here](https://forms.office.com/r/WKHmJEaBDb) or
+-->
 
 
 <!-- {% include base_path %}
