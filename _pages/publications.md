@@ -31,7 +31,7 @@ author_profile: true
 - **Y. Wang**, H. Liu, and L.-P. Chau\*, "Single underwater image restoration using adaptive attenuation-curve prior," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 65, no. 3, pp. 992-1002, 2018.
 
 
-### Selected Journal Papers
+### Selected Conference Papers
 - W. Liu, Y. Wang\*, K.-H. Yap, and L.-P. Chau, "Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 9979-9988, 2023.
 
 - T. Liu, K. Wu, **Y. Wang**\*, W. Liu, K.-H. Yap, and L.-P. Chau, "Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method," *Advances in Neural Information Processing Systems*, vol. 36, 2023.
