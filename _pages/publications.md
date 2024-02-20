@@ -24,11 +24,11 @@ author_profile: true
 
 - **Y. Wang**, Z.-P. Bian, Y. Zhou, and L.-P. Chau\*, "Rethinking and designing a high-performing automatic license plate recognition approach," *IEEE Transactions on Intelligent Transportation Systems*, vol. 23, no. 7, pp. 8868-8880, 2021.
 
-- **Y. Wang**, Z.-P. Bian, J. Hou, and L.-P. Chau\*, "Convolutional neural networks with dynamic regularization," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 32, no. 5, pp. 2299-2304, 2020.
-
-- **Y. Wang**, H. Liu, and L.-P. Chau\*, "Single underwater image restoration using adaptive attenuation-curve prior," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 65, no. 3, pp. 992-1002, 2018.
+- **Y. Wang**, Z.-P. Bian, J. Hou, and L.-P. Chau\*, "Convolutional neural networks with dynamic regularization," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 32, no. 5, pp. 2299-2304, 2021.
 
 - H. Zhuang, **Y. Wang**, Q. Liu, and Z. Lin\*, "Fully decoupled neural network learning using delayed gradients," *IEEE Transactions on neural networks and learning systems*, vol. 33, no. 10, pp. 6013-6020, 2021.
+
+- **Y. Wang**, H. Liu, and L.-P. Chau\*, "Single underwater image restoration using adaptive attenuation-curve prior," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 65, no. 3, pp. 992-1002, 2018.
 
 
 ### Selected Journal Papers
