@@ -9,11 +9,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Team"
+    url: /team/
+
 #   - title: "Software"
 #     url: /software/
 
 #   - title: "Posts"
 #     url: /posts/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
