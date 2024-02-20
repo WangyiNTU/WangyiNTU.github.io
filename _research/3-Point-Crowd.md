@@ -1,5 +1,5 @@
 ---
-title: "A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds, IEEE TIP, 2021"
+title: "2021, IEEE TIP, Point-Supervised Crowd Detection and Counting"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Point-crowd.png' alt=''>"
 collection: research
