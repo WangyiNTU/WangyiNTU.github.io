@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -44,14 +44,13 @@ author_profile: true
 - **Y. Wang**, "[Dense prediction and deep learning in complex visual scenes](https://dr.ntu.edu.sg/handle/10356/152009)," in *Nanyang Technological University*, 2021.
 
 
-<!-- 
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
 <!--
 {% include base_path %}
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
