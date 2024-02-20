@@ -1,5 +1,5 @@
 ---
-title: "Image Restoration in Bitstream-Corrupted JPEG Images, CVPR, 2023"
+title: "2023, CVPR, Bitstream-Corrupted Image Restoration"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Two-ACIR.png' alt=''>"
 collection: research
