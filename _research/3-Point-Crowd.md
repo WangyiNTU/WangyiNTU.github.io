@@ -3,7 +3,7 @@ title: "A Self-Training Approach for Point-Supervised Object Detection and Count
 layout: single-portfolio
 excerpt: "<img src='/images/research/Point-crowd.png' alt=''>"
 collection: research
-order_number: 30
+order_number: 5
 header: 
   og_image: "research/Two-ACIR.png"
 ---
