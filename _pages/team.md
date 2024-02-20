@@ -12,7 +12,7 @@ author_profile: true
 - Prof. [CHAU Lap Pui](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/), Global STEM Scholar, IEEE Fellow​
 
 **Collaborator**
-- Dr. [WANG Yi](https://wangyintu.github.io/), Research Assistant Professor​ (Me)
+- Dr. [WANG Yi](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-wang-yi/), Research Assistant Professor​ (Me)
 
 **Members** 
 - 1 Postdoc Fellow (XU Huaiyuan)
