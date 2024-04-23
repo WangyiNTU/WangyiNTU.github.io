@@ -16,6 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## News
+* [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318).
 * [2024.02] Our paper ([Intra- and Inter-sector Contextual Information Fusion with Joint Self-Attention for File Fragment Classification](https://authors.elsevier.com/c/1iiBw3OAb9CyZK) was accepted at __Knowledge-based System__ with the [code](https://github.com/WangyiNTU/JSANet), which can be downloaded with 50-day free access (before 23 April).
 * [2024.01] Our image captioning papers ([Weakly-Supervised Grounded Image Captioning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686) and [Remote Sensing Image Change Captioning](https://www.mdpi.com/2072-4292/15/23/5611)) were accepted at __Knowledge-based System__ and __Remote Sensing__, respectively.
 * [2023.10] I am one of __Special Session Chair__ and __Review Committee Members__ of the [ISCAS 2024](https://2024.ieee-iscas.org).
