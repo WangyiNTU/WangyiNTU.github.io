@@ -35,7 +35,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## Recruitment/招生
-We are currently actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including PhD students (including self-finance), and a self-finance Master of Philosophy to join our group at Hong Kong Polytechnic University.
+We are actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University.
 
 <!---
 fill [here](https://forms.office.com/r/WKHmJEaBDb) or
