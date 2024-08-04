@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/). My research interest includes __Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics__.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I worked closely with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interest includes __Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics__.
 
 I received BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, and earned PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore, in 2021. My PhD is supervised by Dr. CHAU Lap Pui, who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU. 
 
@@ -35,7 +35,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## Recruitment/招生
-We are actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University.
+We are actively recruiting image/video processing, computer vision, 3D vision, and AI talents, including PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University. Please refer to [This Link](https://www.eie.polyu.edu.hk/~lpchau/) for the Contact.
 
 <!---
 fill [here](https://forms.office.com/r/WKHmJEaBDb) or
