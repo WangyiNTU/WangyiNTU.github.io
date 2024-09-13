@@ -16,6 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## News
+* [2024.06] Our paper ([A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) was accepted at __Information Fusion__ (IF:14.7). 
 * [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results)
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53).
 * [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318).
