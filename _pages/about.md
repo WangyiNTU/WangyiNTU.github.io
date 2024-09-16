@@ -36,7 +36,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## Recruitment/招生
-We are actively recruiting image/video processing, computer vision, 3D vision, and self-motivated PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for the prestigious Hong Kong PhD Fellowship Scheme ([HKPFS](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/)).
+We are actively recruiting image/video processing, computer vision, 3D vision, and self-motivated PhD (including self-finance students) to join our research group at Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for the prestigious Hong Kong PhD Fellowship Scheme ([HKPFS](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/)) and Dual PhD Degree for specific universities.
 <!---
 Please refer to [This Link](https://www.eie.polyu.edu.hk/~lpchau/) for the PhD. 
 -->
