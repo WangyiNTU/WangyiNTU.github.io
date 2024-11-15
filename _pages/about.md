@@ -16,7 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## News
-* [2023.11] We organized a [special issue](https://www.mdpi.com/journal/remotesensing/special_issues/49AB45KC06), __Recent Advances in Multimodal Hyperspectral Remote Sensing__, in [Remote Sensing] Journal (JCR Q1).
+* [2023.11] We organized a [special issue](https://www.mdpi.com/journal/remotesensing/special_issues/49AB45KC06), __Recent Advances in Multimodal Hyperspectral Remote Sensing__, in [Remote Sensing](https://www.mdpi.com/journal/remotesensing) Journal (JCR Q1).
 * [2024.11] Our paper [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10753065) was accepted at __IEEE TCSVT__ (IF:8.3).
 * [2024.10] Our paper [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) was accepted at __IEEE TCSVT__ (IF:8.3).
 * [2024.09] Our paper [A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) was accepted at __Information Fusion__ (IF:14.7).
