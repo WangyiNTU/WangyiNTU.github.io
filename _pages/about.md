@@ -20,7 +20,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 * [2024.11] Our paper [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10753065) was accepted at __IEEE TCSVT__ (IF:8.3).
 * [2024.10] Our paper [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) was accepted at __IEEE TCSVT__ (IF:8.3).
 * [2024.09] Our paper [A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) was accepted at __Information Fusion__ (IF:14.7).
-* [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results)
+* [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results) and [paper link](https://arxiv.org/pdf/2406.12256)
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53).
 * [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318).
 * [2024.02] Our paper ([Intra- and Inter-sector Contextual Information Fusion with Joint Self-Attention for File Fragment Classification](https://authors.elsevier.com/c/1iiBw3OAb9CyZK) was accepted at __Knowledge-based System__ with the [code](https://github.com/WangyiNTU/JSANet).
