@@ -19,8 +19,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 * [2024.11] We organized a [special issue](https://www.mdpi.com/journal/remotesensing/special_issues/49AB45KC06), __Recent Advances in Multimodal Hyperspectral Remote Sensing__, in __Remote Sensing__ Journal (JCR Q1).
 * [2024.11] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10753065) with [code](https://rayyoh.github.io/sgiformer).
 * [2024.10] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) with [GitHub link](https://github.com/ArminLee/OWOD_Review).
-* [2024.10] [Outstanding Reviewer](https://2024.acmmm.org/outstanding-ac-reviewer) in ACM Multimedia.
-
+* [2024.10] [Outstanding Reviewer](https://2024.acmmm.org/outstanding-ac-reviewer) in ACM Multimedia 2024.
 * [2024.09] Our paper was accepted at __Information Fusion__ (IF: 14.7), [A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) with [GitHub link](https://github.com/HuaiyuanXu/3D-Occupancy-Perception).
 * [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results) and [paper link](https://arxiv.org/pdf/2406.12256)
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53).
