@@ -16,6 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 
 
 ## News
+* [2024.11] Promote 2025 7th International Conference on Image, Video and Signal Processing, March 4-6, 2025 Kawasaki, Japan. [Call for paper](https://ivsp.net/call%20for%20papers.html).
 * [2024.11] We organized a [special issue](https://www.mdpi.com/journal/remotesensing/special_issues/49AB45KC06), __Recent Advances in Multimodal Hyperspectral Remote Sensing__, in __Remote Sensing__ Journal (JCR Q1).
 * [2024.11] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10753065) with [code](https://rayyoh.github.io/sgiformer).
 * [2024.10] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) with [GitHub link](https://github.com/ArminLee/OWOD_Review).
