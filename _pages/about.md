@@ -38,7 +38,6 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE@NTU until March 202
 * [2023.05] I was in the role of __Associate Editor__ of [The Visual Computer](https://www.springer.com/journal/371) Journal.
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
 * [2023.03] Our paper was accepted at __CVPR 2023__, [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) with [GitHub link](https://github.com/wenyang001/Two-ACIR).
-* [2023.02] Our papers related to multimedia forensics were accepted by ISCAS, DCC, and AICAS 2023.
 
 
 ## Recruitment/招生
