@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interest includes __Image/Video Processing, Computer Vision, Intelligent Transport Systems, and Digital Forensics__.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interests include __Image/Video Processing, Embodied Egocentric Vision, Intelligent Transport Systems, and Digital Forensics__.
 
 I received BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, and earned PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore, in 2021, supervised by Dr. CHAU Lap Pui, who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU.
 
@@ -16,6 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU until March 20
 
 
 ## News
+* [2025.02] Our paper was accepted at __ICLR 2025__, [OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://openreview.net/pdf?id=vC7AlY1ytz).
 * [2025.01] We organized a [special issue](https://www.grss-ieee.org/wp-content/uploads/2024/12/cfp_Scene-Analysis-and-Understanding-in-the-Intelligent-Transportation-for-Urban-Area.pdf), __Scene Analysis and Understanding in the Intelligent Transportation for Urban Area__, in __IEEE JSTARS__ (JCR Q1). Deadline: Jul 31, 2025.
 * [2024.12] Two __IEEE TMM__ (IF: 8.4) papers were accepted, [WHANet: Wavelet-based Hybrid Asymmetric Network for Spectral Super-Resolution from RGB Inputs](https://ieeexplore.ieee.org/abstract/document/10812768), and [ByteNet: Rethinking multimedia file fragment classification through visual perspectives](https://ieeexplore.ieee.org/abstract/document/10812851/).
 * [2024.11] Promote 2025 7th International Conference on Image, Video and Signal Processing, March 4-6, 2025 Kawasaki, Japan. [Call for paper](https://ivsp.net/call%20for%20papers.html).
