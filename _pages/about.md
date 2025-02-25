@@ -16,15 +16,15 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU until March 20
 
 
 ## News
-* [2025.02] Our paper was accepted at __ICLR 2025__, [OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://openreview.net/pdf?id=vC7AlY1ytz).
+* [2025.02] Our paper was accepted at __ICLR 2025__ for Autonomous Driving: [OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework](https://arxiv.org/abs/2502.15180) with [Code](https://github.com/JLChen-C/OccProphet).
 * [2025.01] We organized a [special issue](https://www.grss-ieee.org/wp-content/uploads/2024/12/cfp_Scene-Analysis-and-Understanding-in-the-Intelligent-Transportation-for-Urban-Area.pdf), __Scene Analysis and Understanding in the Intelligent Transportation for Urban Area__, in __IEEE JSTARS__ (JCR Q1). Deadline: Jul 31, 2025.
 * [2024.12] Two __IEEE TMM__ (IF: 8.4) papers were accepted, [WHANet: Wavelet-based Hybrid Asymmetric Network for Spectral Super-Resolution from RGB Inputs](https://ieeexplore.ieee.org/abstract/document/10812768), and [ByteNet: Rethinking multimedia file fragment classification through visual perspectives](https://ieeexplore.ieee.org/abstract/document/10812851/).
 * [2024.11] Promote 2025 7th International Conference on Image, Video and Signal Processing, March 4-6, 2025 Kawasaki, Japan. [Call for paper](https://ivsp.net/call%20for%20papers.html).
 * [2024.11] We organized a [special issue](https://www.mdpi.com/journal/remotesensing/special_issues/49AB45KC06), __Recent Advances in Multimodal Hyperspectral Remote Sensing__, in __Remote Sensing__ Journal (JCR Q1). Deadline: May 28, 2025.
 * [2024.11] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation](https://ieeexplore.ieee.org/document/10753065) with [code](https://rayyoh.github.io/sgiformer).
-* [2024.10] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) with [GitHub link](https://github.com/ArminLee/OWOD_Review).
+* [2024.10] Our paper was accepted at __IEEE TCSVT__ (IF: 8.3), [Open World Object Detection: A Survey](https://ieeexplore.ieee.org/abstract/document/10716705) with [code](https://github.com/ArminLee/OWOD_Review).
 * [2024.10] [Outstanding Reviewer](https://2024.acmmm.org/outstanding-ac-reviewer) in ACM Multimedia 2024.
-* [2024.09] Our paper was accepted at __Information Fusion__ (IF: 14.7), [A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) with [GitHub link](https://github.com/HuaiyuanXu/3D-Occupancy-Perception).
+* [2024.09] Our paper was accepted at __Information Fusion__ (IF: 14.7), [A survey on occupancy perception for autonomous driving: The information fusion perspective](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004494) with [code](https://github.com/HuaiyuanXu/3D-Occupancy-Perception).
 * [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results) and [paper link](https://arxiv.org/pdf/2406.12256)
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53).
 * [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318).
@@ -38,7 +38,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU until March 20
 * [2023.06] I have been working with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) in PolyU and constructing the __JC STEM Lab of Machine Learning and Computer Vision__.
 * [2023.05] I was in the role of __Associate Editor__ of [The Visual Computer](https://www.springer.com/journal/371) Journal.
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
-* [2023.03] Our paper was accepted at __CVPR 2023__, [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) with [GitHub link](https://github.com/wenyang001/Two-ACIR).
+* [2023.03] Our paper was accepted at __CVPR 2023__, [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) with [code](https://github.com/wenyang001/Two-ACIR).
 
 
 ## Recruitment/招生
