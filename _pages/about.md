@@ -28,17 +28,18 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2
 * [2024.06] We got the champion of EPIC-Kitchens Challenges Multi-Instance Retrieval Track in CVPR 2024 [Champion solution](https://codalab.lisn.upsaclay.fr/competitions/617#results) and [paper link](https://arxiv.org/pdf/2406.12256)
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53).
 * [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318).
-* [2024.02] Our paper was accepted at __Knowledge-based System__ (IF: 7.2), ([Intra- and Inter-sector Contextual Information Fusion with Joint Self-Attention for File Fragment Classification](https://authors.elsevier.com/c/1iiBw3OAb9CyZK) with [code](https://github.com/WangyiNTU/JSANet).
-* [2024.01] Our image captioning papers were accepted at __Knowledge-based System__ and __Remote Sensing__, respectively, ([Weakly-Supervised Grounded Image Captioning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686) and [Remote Sensing Image Change Captioning](https://www.mdpi.com/2072-4292/15/23/5611)).
+* [2024.02] \[__Knowledge-based System__\] (IF: 7.2) ([Intra- and Inter-sector Contextual Information Fusion with Joint Self-Attention for File Fragment Classification](https://authors.elsevier.com/c/1iiBw3OAb9CyZK) with [code](https://github.com/WangyiNTU/JSANet).
+* [2024.01] \[__Knowledge-based System__\] (IF: 7.2) ([Weakly-Supervised Grounded Image Captioning](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686).
+* [2024.01] \[__Remote Sensing__\] [Remote Sensing Image Change Captioning](https://www.mdpi.com/2072-4292/15/23/5611)).
 * [2023.10] I am one of __Special Session Chair__ and __Review Committee Members__ of the [ISCAS 2024](https://2024.ieee-iscas.org).
 * [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580), __AI-powered multimedia computing__, in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal, as __Guest Editor__.
-* [2023.09] Our paper was accepted at __NeurIPS 2023__, [Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method](https://arxiv.org/abs/2309.13890), with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset).
+* [2023.09] \[__NeurIPS 2023__\] [Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method](https://arxiv.org/abs/2309.13890), with the [dataset](https://github.com/LIUTIGHE/BSCV-Dataset).
 * [2023.09] I have been teaching the subject [EIE546 Video Technology](https://www.polyu.edu.hk/eee/-/media/department/eee/content/study/subject-syllabi/eee-subject-syllabi/msc-subjects/2023-2024/eie546.pdf) in PolyU.
 * [2023.08] Our group has recruited 8 PhD students, 1 research fellow, and 1 MPhil student, and I am co-supervisor and supervisor. The lab's website will be constructed.
 * [2023.06] I have been working with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eie/people/academic-staff/prof-chau-lap-pui/) in PolyU and constructing the __JC STEM Lab of Machine Learning and Computer Vision__.
 * [2023.05] I was in the role of __Associate Editor__ of [The Visual Computer](https://www.springer.com/journal/371) Journal.
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3).
-* [2023.03] Our paper was accepted at __CVPR 2023__, [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) with [code](https://github.com/wenyang001/Two-ACIR).
+* [2023.03] \[__CVPR 2023__\] [Bitstream-corrupted image restoration](https://arxiv.org/abs/2304.06976) with [code](https://github.com/wenyang001/Two-ACIR).
 
 
 ## Recruitment/招生
