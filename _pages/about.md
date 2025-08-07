@@ -16,7 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2
 
 
 ## News
-* [2025.07] \[__ACM Multimedia__\] (CCF-A) with __4__ papers accepted: [3D Representation Learning](https://arxiv.org/abs/2508.02172), [Open-vocabulary Situation Recognition](https://arxiv.org/abs/2507.14686), [Bitstream-corrupted Video Recovery](https://arxiv.org/abs/2507.22481), and [Few-Shot Class-Incremental Learning].
+* [2025.07] \[__ACM Multimedia__\] (CCF-A) with __4__ papers accepted: [3D Representation Learning](https://arxiv.org/abs/2508.02172), [Open-vocabulary Situation Recognition](https://arxiv.org/abs/2507.14686), [Bitstream-corrupted Video Recovery](https://arxiv.org/abs/2507.22481), and Few-Shot Class-Incremental Learning.
 * [2025.07] [\[__IEEE TITS__\]](https://ieeexplore.ieee.org/abstract/document/11106397) (IF: 8.4) Signeye: Traffic sign interpretation from vehicle first-person view
 * [2025.06] [\[__IEEE TMM__\]](https://arxiv.org/abs/2506.09541) (IF: 9.7) 3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection
 * [2025.05] [\[__IEEE TITS__\]](https://ieeexplore.ieee.org/abstract/document/11000439) (IF: 8.4) Occlutrack: Rethinking awareness of occlusion for enhancing multiple pedestrian tracking
