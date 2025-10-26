@@ -15,6 +15,9 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 
+## Recruitment/招生
+We are actively recruiting image/video processing, computer vision, 3D vision, and self-motivated PhD students (including self-finance) to join our research group at Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/), [PolyU Presidential PhD Fellowship](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/?sc_lang=en), [Joint PhD Supervision Leading to PolyU degree](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-programmes-leading-to-a-polyu-degree/), and [Joint PhD Supervision](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-schemes/) (specific universities/institutes). More application information can be found at this [link](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/).
+
 ## News
 * [2025.09] I was work as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
 * [2025.09] I was in the role of __Associate Editor__ of [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) Journal (JCR Q1)
@@ -51,9 +54,6 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2
 * [2023.04] I joined the Hong Kong Polytechnic University ([PolyU](https://www.polyu.edu.hk/)) as [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3)
 * [2023.03] [\[__CVPR 2023__\]](https://arxiv.org/abs/2304.06976) Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration, with [code](https://github.com/wenyang001/Two-ACIR)
 
-
-## Recruitment/招生
-We are actively recruiting image/video processing, computer vision, 3D vision, and self-motivated PhD students (including self-finance) to join our research group at Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/), [PolyU Presidential PhD Fellowship](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/?sc_lang=en), [Joint PhD Supervision Leading to PolyU degree](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-programmes-leading-to-a-polyu-degree/), and [Joint PhD Supervision](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-schemes/) (specific universities/institutes). More application information can be found at this [link](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/).
 
 <!---
 * [2024.11] Promote 2025 7th International Conference on Image, Video and Signal Processing, March 4-6, 2025 Kawasaki, Japan. [Call for paper](https://ivsp.net/call%20for%20papers.html).
