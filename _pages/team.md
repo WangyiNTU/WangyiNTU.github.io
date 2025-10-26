@@ -15,9 +15,9 @@ author_profile: true
 - Dr. [WANG Yi](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-wang-yi/), Research Assistant Professor​ (Me)
 
 **Members** 
-- 1 Postdoc Fellow (XU Huaiyuan)
-- 10 PhD Students (ZHANG Yi, LEUNG Wing Kit, SU Yuejiao, DENG Kunyuan, MENG Shiyu, YAO Lei, Pan Jianhong, Chen Junliang, Wang Xiaoqi, and Lian Jiawei)
-- 2 MPhil Students (HU Qiongyang, Sun Haoran).​
+- 4 Postdoc Fellow ([XU Huaiyuan](https://huaiyuanxu.github.io/), ZHENG Ying, [CUI Yawen](https://scholar.google.com/citations?user=Er0gOskAAAAJ&hl=zh-CN), [YANG Chuang](https://omtcyang.github.io/))
+- 18 PhD Students (ZHANG Yi, LEUNG Wing Kit, SU Yuejiao, DENG Kunyuan, MENG Shiyu, [YAO Lei](https://rayyoh.github.io), [PAN Jianhong](https://scholar.google.com/citations?user=J_IepqIAAAAJ&hl=en), CHEN Junliang, WANG Xiaoqi, [LIAN Jiawei](https://scholar.google.com/citations?user=rAPPIPQAAAAJ&hl=en), XUE Kaitao, ZOU Wenbin, ZHONG Jiaru, ZHAO Haoyu, Dang Zichen, ZHOU Yirui, YANG Yuxiang, and HAO Chao)
+- 5 MPhil Students (HU Qiongyang, Sun Haoran, ZHU Haoyu, LI Junlong, and CHEN Mingjin).​
 
 **Objectives of the Lab** 
 - Develop computer vision and machine learning algorithms for metaverse applications.​
