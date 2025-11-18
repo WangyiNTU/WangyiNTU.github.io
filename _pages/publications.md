@@ -7,7 +7,35 @@ author_profile: true
 
 ### Full Publication List refer to [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yi-Wang-569)
 
-### Selected Journal Papers
+
+### Selected Conference Papers 
+[\*: Corresponding Author, †: My Mentored Student]
+- Y. Su†, **Y. Wang**\*, Q. Hu†, C. Yang, L.-P. Chau\*, "ANNEXE: Unified Analyzing, Answering, and Pixel
+Grounding for Egocentric Interaction," In *CVPR*, 2025.
+
+- J. Chen†, H. Xu, **Y. Wang**\*, and L.-P. Chau\*, "OccProphet: Pushing Efficiency Frontier of Camera-Only
+4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework." In *ICLR*, 2025.
+
+- J. Lian†, J. Pan†, L. Wang, **Y. Wang**\*, S. Mei\*, and L.-P. Chau\*, "Semantic Representation Attack against
+Aligned Large Language Models," In *NeurIPS*, 2025.
+
+- L. Yao†, **Y. Wang**\*, Y. Zhang†, M. Liu, and L.-P. Chau\*. "GaussianCross: Cross-modal Self-supervised 3D
+Representation Learning via Gaussian Splatting." In *ACM Multimedia*, 2025.
+
+- C. Cai, T. Liu, J. Gao, W. Liu, K. Wu\*, R. Wang, **Y. Wang**\*, and S. C. Liew, "From Semantics, Scene to
+Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition," In *ACM
+Multimedia*, 2025.
+
+- T. Liu, K.Wu, C. Cai†, **Y. Wang**, K.-H. Yap, and L.-P. Chau. "Towards Blind Bitstream-corrupted Video
+Recovery via a Visual Foundation Model-driven Framework." In *ACM Multimedia*, 2025.
+
+- W. Liu†, **Y. Wang**\*, K.-H. Yap\*, and L.-P. Chau, "Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration," in *CVPR*, pp. 9979-9988, 2023.
+
+- T. Liu†, K. Wu, **Y. Wang**\*, W. Liu, K.-H. Yap\*, and L.-P. Chau, "Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method," *NeurIPS*, vol. 36, 2023.
+
+
+### Selected Journal Papers (Updated in 2022)
+<!--
 - C. Cai, **Y. Wang**\*, and K.-H. Yap, "Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning," *Remote Sensing*, vol. 15, no. 23, pp. 5611, 2024.
 
 - C. Cai, S. Wang, K.-H. Yap\*, and **Y. Wang**, "Top-down Framework for Weakly-supervised Grounded Image Captioning," *Knowledge-Based Systems*, pp. 111433, 2024.
@@ -15,7 +43,7 @@ author_profile: true
 - G. Chen, Y. Zhao, **Y. Wang**\*, and K.-H. Yap, "SSN: Stockwell Scattering Network for SAR Image Change Detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 20, pp. 1-5, 2023.
 
 - K. Wu, Q. Liu, **Y. Wang**, and Y. Yang\*, "End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End," *Optics Express*, vol. 31, no. 7, pp. 11659-11679, 2023.
-  
+-->  
 - L. Tang, **Y. Wang**\*, and L.-P. Chau, "Weakly-supervised part-attention and mentored networks for vehicle re-identification," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 32, no. 12, pp. 8887-8898, 2022.
 
 - Y. Zhou, **Y. Wang**, and L.-P. Chau\*, "Moving towards centers: Re-ranking with attention and memory for re-identification," *IEEE Transactions on Multimedia*, 2022.
@@ -31,14 +59,12 @@ author_profile: true
 - **Y. Wang**, H. Liu, and L.-P. Chau\*, "Single underwater image restoration using adaptive attenuation-curve prior," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 65, no. 3, pp. 992-1002, 2018.
 
 
-### Selected Conference Papers
-- W. Liu, **Y. Wang**\*, K.-H. Yap, and L.-P. Chau, "Bitstream-Corrupted JPEG Images are Restorable: Two-stage Compensation and Alignment Framework for Image Restoration," in *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, pp. 9979-9988, 2023.
 
-- T. Liu, K. Wu, **Y. Wang**\*, W. Liu, K.-H. Yap, and L.-P. Chau, "Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method," *Advances in Neural Information Processing Systems*, vol. 36, 2023.
-
+<!--
 - X. Hou, **Y. Wang**, and L.-P. Chau\*, "Vehicle tracking using deep sort with low confidence track filtering," in *2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)*, pp. 1-6, 2019.
   
 - **Y. Wang**, J. Hou, and L.-P. Chau\*, "Object counting in video surveillance using multi-scale density map regression," in *ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, pp. 2422-2426, 2019.
+-->
 
 ### PhD Thesis
 - **Y. Wang**, "[Dense prediction and deep learning in complex visual scenes](https://dr.ntu.edu.sg/handle/10356/152009)," in *Nanyang Technological University*, 2021.
