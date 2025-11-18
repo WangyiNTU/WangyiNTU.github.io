@@ -16,7 +16,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2
 
 ## News
 * [2025.10] [\[__NeurIPS 2025__\]](https://arxiv.org/abs/2509.19360) [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
-* [2025.09] I was work as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
+* [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
 * [2025.09] I was in the role of __Associate Editor__ of [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) Journal (JCR Q1)
 * [2025.07] \[__ACM Multimedia__\] (CCF-A) with __4__ papers accepted: [3D Representation Learning](https://arxiv.org/abs/2508.02172), [Open-vocabulary Situation Recognition](https://arxiv.org/abs/2507.14686), [Bitstream-corrupted Video Recovery](https://arxiv.org/abs/2507.22481), and [Few-Shot Class-Incremental Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755306).
 * [2025.07] [\[__IEEE TITS__\]](https://ieeexplore.ieee.org/abstract/document/11106397) (IF: 8.4) Signeye: Traffic sign interpretation from vehicle first-person view
