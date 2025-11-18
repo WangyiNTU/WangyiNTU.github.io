@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Visual Enhancement and Analytics in Complex Scenes"
+title: "Egocentric Perception and Embodied Intelligence"
 permalink: /research/
 author_profile: true
 header:
