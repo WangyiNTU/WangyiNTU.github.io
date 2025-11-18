@@ -24,6 +24,7 @@
 @import "buttons";
 @import "notices";
 @import "masthead";
+
 @import "navigation";
 @import "footer";
 @import "syntax";
@@ -41,3 +42,20 @@
 @import "print";
 
 @import "custom";
+
+// 调整容器宽度
+.container {
+  max-width: 1200px; // 增加最大宽度
+  width: 90%; // 调整宽度百分比
+}
+
+// 或者直接修改页面宽度
+.page {
+  @include breakpoint($large) {
+    width: calc(100% - 150px); // 调整侧边栏占用空间
+  }
+}
+
+// 调整断点
+$large: 1200px; // 增加大屏幕断点
+$x-large: 1600px; // 增加超大屏幕断点
