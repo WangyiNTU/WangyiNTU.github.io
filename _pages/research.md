@@ -17,14 +17,15 @@ To achieve __Embodied Intelligence__, the AI model must learn to perceive, under
 -	Oct 2023 – Jun 2026, **PolyU Start-Up Fund**, **PI:** Visual Sensing, Restoration, and Analytics in Complex Scenes.
 -	Jun 2025 - May 2026, **PolyU (non-UGC)**, **PI:**  Open-world 3D Scene and Interaction from Egocentric Video.
 -	Jan 2025 - Dec 2025, **PolyU EEE**, **Co-PI:**  EEE Special Research Topics 2025.
--	Nov 2023 - Nov 2028, **Co-supervisor, Team Leader:** Jockey Club STEM Lab of Machine Learning and Computer Vision
+-	Nov 2023 - Nov 2028, **Team Leader, Supervisor/Co-supervisor:** Jockey Club STEM Lab of Machine Learning and Computer Vision
 
 ## Achievements
+<!--
 1. Image restoration in complex underwater environments
 2. Image restoration in bitstream-corrupted JPEG images
 3. Weakly supervised crowd detection and counting
 4. Unconstrained license plate detection and recognition
-
+-->
 
 <nbsp>
 
