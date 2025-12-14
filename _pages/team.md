@@ -30,4 +30,3 @@ author_profile: true
 **Applications** 
 - Autonomous Driving, Egocentric Vision, Robotics and 3D Vision, and Low-level Vision
 
-\*Note that the lab website is under construction.
