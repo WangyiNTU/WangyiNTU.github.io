@@ -22,11 +22,12 @@ author_profile: true
 - 5 MPhil Students (Supervised by Dr. WANG Yi: HU Qiongyang, Sun Haoran, ZHU Haoyu, LI Junlong, and CHEN Mingjin).​
 
 **Objectives of the Lab** 
-- Develop computer vision and machine learning algorithms for metaverse applications.​
+- Building new interaction paradigms among humans, intelligent agents, and society; advancing AI perception innovations to empower smart manufacturing, mobility, education, entertainment, and community wellness.
+​
 
 **Focus areas** 
-- Machine Learning, Computer Vision, and the Metaverse​
+- Machine Learning, Computer Vision, and LLM.​
 
 **Applications** 
-- Autonomous Driving, Egocentric Vision, Robotics and 3D Vision, and Low-level Vision
+- Embodied Intelligence, Autonomous Driving, Egocentric Vision, and Low-level Vision
 
