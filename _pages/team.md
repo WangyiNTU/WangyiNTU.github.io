@@ -11,10 +11,10 @@ author_profile: true
 **Director** 
 - Prof. [CHAU Lap Pui](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/), Global STEM Scholar, IEEE Fellow​
 
-**Collaborator**
+**Collaborator, Team Leader**
 - Dr. [WANG Yi](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-wang-yi/), Research Assistant Professor​ (Me)
 
-**Members** 
+**Team Members** 
 - 4 Postdoc Fellow ([XU Huaiyuan](https://huaiyuanxu.github.io/), ZHENG Ying, [CUI Yawen](https://scholar.google.com/citations?user=Er0gOskAAAAJ&hl=zh-CN), [YANG Chuang](https://omtcyang.github.io/))
 - 18 PhD Students (ZHANG Yi, LEUNG Wing Kit, SU Yuejiao, DENG Kunyuan, MENG Shiyu, [YAO Lei](https://rayyoh.github.io), [PAN Jianhong](https://scholar.google.com/citations?user=J_IepqIAAAAJ&hl=en), CHEN Junliang, WANG Xiaoqi, [LIAN Jiawei](https://scholar.google.com/citations?user=rAPPIPQAAAAJ&hl=en), XUE Kaitao, ZOU Wenbin, [ZHONG Jiaru](https://scholar.google.com/citations?user=Q9KMoxkAAAAJ&hl=zh-CN), ZHAO Haoyu, Dang Zichen, ZHOU Yirui, [YANG Yuxiang](https://scholar.google.com/citations?user=uyiHu0kAAAAJ&hl=en), and [HAO Chao](https://scholar.google.com/citations?user=c4yDMc8AAAAJ&hl=zh-CN))
 - 5 MPhil Students (HU Qiongyang, Sun Haoran, ZHU Haoyu, LI Junlong, and CHEN Mingjin).​
