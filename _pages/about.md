@@ -15,6 +15,7 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## News
+* [2026.01] [\[__ICLR 2026__\]](https://openreview.net/forum?id=RYwQ0xQcAh) [__Egocentric AI__] Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
 * [2025.10] [\[__NeurIPS 2025__\]](https://arxiv.org/abs/2509.19360) [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
 * [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
 * [2025.09] I was in the role of __Associate Editor__ of [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) Journal (JCR Q1)
@@ -25,7 +26,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2
 * [2025.05] [\[__Knowledge-based Systems__\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705125009141) (IF: 7.6) Foundation model-assisted interpretable vehicle behavior decision making
 * [2025.05] [\[__Information Fusion__\]](https://www.sciencedirect.com/science/article/pii/S1566253525004245) (IF: 15.5) Contrastive learning-based place descriptor representation for cross-modality place recognition, [code](https://github.com/emilyemliyM/Cross-PRNet)
 * [2025.04] [\[__Machine Intelligence Research__\]](https://link.springer.com/article/10.1007/s11633-025-1542-8) (IF: 8.7) A survey of embodied learning for object-centric robotic manipulation
-* [2025.03] [\[__CVPR 2025__\]](https://arxiv.org/abs/2504.01472) [__Egocentric Vision__] ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction, with [code](https://yuggiehk.github.io/annexe/)
+* [2025.03] [\[__CVPR 2025__\]](https://arxiv.org/abs/2504.01472) [__Egocentric Reasoning__] ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction, with [code](https://yuggiehk.github.io/annexe/)
 * [2025.02] [\[__ICLR 2025__\]](https://arxiv.org/abs/2502.15180) [__Autonomous Driving Perception__] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework, with [code](https://github.com/JLChen-C/OccProphet)
 * [2025.01] \[__IEEE JSTARS__\] (JCR Q1) We organized a [special issue](https://www.grss-ieee.org/wp-content/uploads/2024/12/cfp_Scene-Analysis-and-Understanding-in-the-Intelligent-Transportation-for-Urban-Area.pdf), *Scene Analysis and Understanding in the Intelligent Transportation for Urban Area*. Deadline: Jul 31, 2025.
 * [2024.12] [\[__IEEE TMM__\]](https://ieeexplore.ieee.org/abstract/document/10812768) (IF: 9.7) WHANet: Wavelet-based Hybrid Asymmetric Network for Spectral Super-Resolution from RGB Inputs
