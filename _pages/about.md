@@ -15,6 +15,7 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## News
+* [2026.02] \[__CVPR_2026__\] (CCF-A) with __3__ papers accepted: [Hand-Object Interaction Video Synthesis](), [Intention-Driven 3D Affordance Grounding](https://arxiv.org/abs/2507.14686), and [Accelerating Diffusion-based Video Editing]().
 * [2026.01] [\[__ICLR 2026__\]](https://openreview.net/forum?id=RYwQ0xQcAh) [__Egocentric AI__] Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
 * [2025.10] [\[__NeurIPS 2025__\]](https://arxiv.org/abs/2509.19360) [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
 * [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
