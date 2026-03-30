@@ -15,11 +15,12 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
 ## News
+* [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
 * [2026.03] [\[__Nature Communications__\]](https://www.nature.com/articles/s41467-026-70917-y) (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
 * [2026.02] \[__CVPR_2026__\] (CCF-A) with __3__ papers accepted: [Hand-Object Interaction Video Synthesis](), [Intention-Driven 3D Affordance Grounding](https://arxiv.org/abs/2507.14686)(with [Code](https://github.com/RayYoh/Hammer)), and [Accelerating Diffusion-based Video Editing]().
 * [2026.01] [\[__ICLR 2026__\]](https://openreview.net/forum?id=RYwQ0xQcAh) [__Egocentric AI__] Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
 * [2025.10] [\[__NeurIPS 2025__\]](https://arxiv.org/abs/2509.19360) [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
-* [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (Top AI Conference)
+* [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (__CCF-A__)
 * [2025.09] I was in the role of __Associate Editor__ of [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) Journal (JCR Q1)
 * [2025.07] \[__ACM Multimedia__\] (CCF-A) with __4__ papers accepted: [3D Representation Learning](https://arxiv.org/abs/2508.02172), [Open-vocabulary Situation Recognition](https://arxiv.org/abs/2507.14686), [Bitstream-corrupted Video Recovery](https://arxiv.org/abs/2507.22481), and [Few-Shot Class-Incremental Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3755306).
 * [2025.07] [\[__IEEE TITS__\]](https://ieeexplore.ieee.org/abstract/document/11106397) (IF: 8.4) Signeye: Traffic sign interpretation from vehicle first-person view
