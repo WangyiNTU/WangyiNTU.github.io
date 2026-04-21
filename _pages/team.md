@@ -29,5 +29,5 @@ author_profile: true
 - Machine Learning, Computer Vision, and LLM.​
 
 **Applications** 
-- Embodied Intelligence, Autonomous Driving, Egocentric Vision, and Low-level Vision
+- Embodied Intelligence, Egocentric Vision, Autonomous Driving, and Trustworthy AI
 
