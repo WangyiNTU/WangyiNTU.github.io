@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interests include __Visual Information Processing, Egocentric Vision, Embodied Perception, and Multimedia Forensics__.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interests include __Egocentric Vision, Embodied Intelligence, 3D Vision, and Trustworthy AI__.
 
 I received BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, and earned PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore, in 2021, supervised by Dr. CHAU Lap Pui, who worked as an A/P at NTU (till 2022) and is currently a Prof. at PolyU.
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
+
+## Embodied AI-related Open-Source Projects.
+* [__FreeAskWorld__](https://github.com/AIR-DISCOVER/FreeAskWorld): A simulation framework for __embodied social interaction__ and scalable data generation. (With integration of __AI agent interfaces__, e.g., OpenClaw, Codex, Claude Code, etc.)
+* [__AERR-Nav__](https://kim-os.github.io/AERR-Nav): A zero-shot object navigation framework for unknown __multi-floor environments__, achieving state-of-the-art results on open-world indoor navigation.
+* [__OccProphet__](https://github.com/JLChen-C/OccProphet): A camera-only 4D occupancy forecasting project for autonomous
+driving.
+*  [__OE-VLN/HiNav__](): An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.
 
 ## News
 * [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
