@@ -5,11 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Full Publication List refer to [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Yi-Wang-569)
+### Full Publication List refer to [Google scholar](https://scholar.google.com.sg/citations?user=MAG909MAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0001-8659-4724)
 
 
 ### Selected Conference Papers 
-[\*: Corresponding Author, †: My Mentored Student]
+[\*: As Corresponding Author, †: My Mentored Student]
+
+- M. Chen†, J. Chen, Z. Fan, Y. Lee, Z. Dang†, L. Wang, Y. Cui, L.-P. Chau, **Y. Wang**\*, "HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis," In *CVPR*, 2026.
+
+- L. Yao†, Y. Chen, Y. Su†, **Y. Wang**\*, M. Liu, L.-P. Chau, "HAMMER: Harnessing MLLMs via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding," In *CVPR*, 2026.
+
+- T. Liu†, Y. Lu, L. Zhang, C. Cai, J. Gao, **Y. Wang**, K.-H. Yap, L.-P. Chau, "Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep," In *CVPR*, 2026.
+
+- Y. Su†, **Y. Wang**\*, L. Yao†, C. Cui, L.-P. Chau, "Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing," In *ICLR*, 2026.
+
+- J. Lian†, J. Pan†, L. Wang, **Y. Wang**\*, S. Mei, and L.-P. Chau, "Semantic Representation Attack against Aligned Large Language Models," In *NeurIPS*, 2025.
+
+- L. Yao†, **Y. Wang**\*, Y. Zhang†, M. Liu, and L.-P. Chau, "GaussianCross: Cross-modal Self-supervised 3D Representation Learning via Gaussian Splatting," In *ACM Multimedia*, 2025.
+
+- C. Cai†, T. Liu†, J. Gao†, W. Liu†, K. Wu, R. Wang, **Y. Wang**\*, and S. C. Liew, "From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition," In *ACM Multimedia*, 2025.
+
+- T. Liu†, K. Wu, C. Cai†, **Y. Wang**, K.-H. Yap\*, and L.-P. Chau, "Towards Blind Bitstream-corrupted Video Recovery via a Visual Foundation Model-driven Framework," In *ACM Multimedia*, 2025.
+
 - Y. Su†, **Y. Wang**\*, Q. Hu†, C. Yang, L.-P. Chau\*, "ANNEXE: Unified Analyzing, Answering, and Pixel
 Grounding for Egocentric Interaction," In *CVPR*, 2025.
 
@@ -34,16 +51,22 @@ Recovery via a Visual Foundation Model-driven Framework." In *ACM Multimedia*, 2
 - T. Liu†, K. Wu, **Y. Wang**\*, W. Liu, K.-H. Yap\*, and L.-P. Chau, "Bitstream-Corrupted Video Recovery: A Novel Benchmark Dataset and Method," *NeurIPS*, vol. 36, 2023.
 
 
-### Selected Journal Papers (Updated in 2022)
-<!--
-- C. Cai, **Y. Wang**\*, and K.-H. Yap, "Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning," *Remote Sensing*, vol. 15, no. 23, pp. 5611, 2024.
+### Selected Journal Papers
 
-- C. Cai, S. Wang, K.-H. Yap\*, and **Y. Wang**, "Top-down Framework for Weakly-supervised Grounded Image Captioning," *Knowledge-Based Systems*, pp. 111433, 2024.
+- J. Lian†, J. Pan†, L. Wang, **Y. Wang**\*, X. Wang, Y. Lu, S. Mei, L.-P. Chau, "Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models," *Nature Communications*, 2026. [Nature](https://www.nature.com/articles/s41467-026-70917-y)
 
-- G. Chen, Y. Zhao, **Y. Wang**\*, and K.-H. Yap, "SSN: Stockwell Scattering Network for SAR Image Change Detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 20, pp. 1-5, 2023.
+- H. Zhu†, Y. Zhang†, L. Yao†, L.-P. Chau, and **Y. Wang**\*, "MASS: Mesh-inellipse Aligned Deformable Surfel Splatting for Hand Reconstruction and Rendering from Egocentric Monocular Video," In *CVM*, 2026. Recommended to *IEEE Transactions on Visualization and Computer Graphics*, 2026. (**Top 1.4%, Best Paper Candidate**)
 
-- K. Wu, Q. Liu, **Y. Wang**, and Y. Yang\*, "End-to-end Varifocal Multiview Images Coding Framework from Data Acquisition End to Vision Application End," *Optics Express*, vol. 31, no. 7, pp. 11659-11679, 2023.
--->  
+- Y. Su†, **Y. Wang**, and L.-P. Chau, "CaRe-Ego: Contact-aware Relationship Modeling for Egocentric Interactive Hand-object Segmentation," *Expert Systems with Applications*, vol. 296, pp. 129148, Jul. 2025.
+
+- Y. Zhang†, **Y. Wang**, Y. Cui, and L.-P. Chau, "3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection," *IEEE Transactions on Multimedia*, vol. 27, pp. 6235-6247, Jun. 2025.
+
+- S. Meng†, **Y. Wang**, H. Xu, L.-P. Chau, "Contrastive learning-based place descriptor representation for cross-modality place recognition," *Information Fusion*, vol. 124, pp. 103351, Jun. 2025.
+
+- J. Gao†, **Y. Wang**, K.-H. Yap, K. Garg, B. S. Han, "Occlutrack: Rethinking awareness of occlusion for enhancing multiple pedestrian tracking," *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 7, pp. 9852-9866, May 2025.
+
+- L. Yao†, **Y. Wang**, M. Liu, and L.-P. Chau, "SGIFormer: Semantic-guided and geometric-enhanced interleaving transformer for 3D instance segmentation," *IEEE Transactions on Circuits and Systems for Video Technology*, Nov. 2024.
+ 
 - L. Tang, **Y. Wang**\*, and L.-P. Chau, "Weakly-supervised part-attention and mentored networks for vehicle re-identification," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 32, no. 12, pp. 8887-8898, 2022.
 
 - Y. Zhou, **Y. Wang**, and L.-P. Chau\*, "Moving towards centers: Re-ranking with attention and memory for re-identification," *IEEE Transactions on Multimedia*, 2022.
