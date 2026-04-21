@@ -67,9 +67,9 @@ Recovery via a Visual Foundation Model-driven Framework." In *ACM Multimedia*, 2
 
 - L. Yao†, **Y. Wang**, M. Liu, and L.-P. Chau, "SGIFormer: Semantic-guided and geometric-enhanced interleaving transformer for 3D instance segmentation," *IEEE Transactions on Circuits and Systems for Video Technology*, Nov. 2024.
  
-- L. Tang, **Y. Wang**\*, and L.-P. Chau, "Weakly-supervised part-attention and mentored networks for vehicle re-identification," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 32, no. 12, pp. 8887-8898, 2022.
+- L. Tang†, **Y. Wang**\*, and L.-P. Chau, "Weakly-supervised part-attention and mentored networks for vehicle re-identification," *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 32, no. 12, pp. 8887-8898, 2022.
 
-- Y. Zhou, **Y. Wang**, and L.-P. Chau\*, "Moving towards centers: Re-ranking with attention and memory for re-identification," *IEEE Transactions on Multimedia*, 2022.
+- Y. Zhou†, **Y. Wang**, and L.-P. Chau\*, "Moving towards centers: Re-ranking with attention and memory for re-identification," *IEEE Transactions on Multimedia*, 2022.
   
 - **Y. Wang**, J. Hou, X. Hou, and L.-P. Chau\*, "A self-training approach for point-supervised object detection and counting in crowds," *IEEE Transactions on Image Processing*, vol. 30, pp. 2876-2887, 2021.
 
