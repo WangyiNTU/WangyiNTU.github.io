@@ -14,9 +14,10 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE, NTU, until March 2023 with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a robotics center at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
-## Embodied AI-related Open-Source Projects.
+## Recent Embodied AI-related Projects.
 * [__FreeAskWorld__](https://github.com/AIR-DISCOVER/FreeAskWorld): A simulation framework for __embodied social interaction__ and scalable data generation. (With integration of __AI agent interfaces__, e.g., OpenClaw, Codex, Claude Code, etc.)
 * [__AERR-Nav__](https://kim-os.github.io/AERR-Nav): A zero-shot object navigation framework for unknown __multi-floor environments__, achieving state-of-the-art results on open-world indoor navigation.
+* [__EgoProceAssist__](https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant): A novel concept of an egocentric procedural AI assistant (EgoProceAssist) in __smart glasses__ tailored to step-by-step support daily procedural tasks.
 * [__OccProphet__](https://github.com/JLChen-C/OccProphet): A camera-only 4D occupancy forecasting project for autonomous
 driving.
 *  [__OE-VLN/HiNav__](): An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.
