@@ -17,7 +17,7 @@ Upon completion of the subject, students will be able to:
 2. describe the operational principles of one or two advanced topics of video technology and give evaluations; 
 3. perform literature survey; give professional report, analysis, and/or carry out practical realization of video processing algorithms; 
 4. appreciate and take up the related engineering work on video technology, and
-5. carry out initial research work on video technology.
+5. carry out initial research work on video technology and AI-based video processing.
 
 <!-- 
 ## Washington University in St. Louis
