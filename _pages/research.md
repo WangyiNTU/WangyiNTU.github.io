@@ -20,8 +20,7 @@ To achieve __Embodied Intelligence__, the AI model must learn to perceive, under
 -	Jan 2025 - Dec 2025, **PolyU EEE**, **Co-PI:**  EEE Special Research Topics 2025.
 -	Nov 2023 - Nov 2028, **Team Leader, Supervisor:** Jockey Club STEM Lab of Machine Learning and Computer Vision
 
-<!--
-
+{% comment %}
 ## Achievements (Updated in 2023)
 <!--
 1. Image restoration in complex underwater environments
@@ -43,5 +42,4 @@ To achieve __Embodied Intelligence__, the AI model must learn to perceive, under
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %} -->
-
--->
+{% endcomment %}
