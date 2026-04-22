@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Embodied Projects Preview</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 40px 24px 80px;
+      background: #f4f7fb;
+      color: #1f2d3d;
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 32px;
+      border-radius: 24px;
+      box-shadow: 0 24px 60px rgba(15, 23, 42, 0.12);
+    }
+
+    h1 {
+      margin: 0 0 24px;
+      font-size: 2rem;
+      line-height: 1.2;
+    }
+
+    .embodied-projects-showcase {
+      margin: 1.5rem 0 2rem;
+      border-top: 1px solid #d9dde3;
+    }
+
+    .embodied-project-card {
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: 1.5rem;
+      align-items: start;
+      padding: 1.4rem 0;
+      border-bottom: 1px solid #d9dde3;
+    }
+
+    .embodied-project-media {
+      display: block;
+      overflow: hidden;
+      border-radius: 0;
+      background: #eef2f7;
+      aspect-ratio: 1.55 / 1;
+      text-decoration: none;
+    }
+
+    .embodied-project-media img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .embodied-project-title {
+      margin: 0 0 0.65rem;
+      font-size: 1.95rem;
+      line-height: 1.2;
+    }
+
+    .embodied-project-title a {
+      color: #111827;
+      text-decoration: none;
+    }
+
+    .embodied-project-title a:hover,
+    .embodied-project-title a:focus {
+      color: #0b63b6;
+      text-decoration: underline;
+    }
+
+    .embodied-project-meta {
+      margin: 0 0 0.35rem;
+      color: #7b8794;
+      font-size: 0.9rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    .embodied-project-content p {
+      margin: 0;
+      color: #334155;
+      font-size: 1.05rem;
+      line-height: 1.65;
+    }
+
+    .embodied-project-links {
+      margin-top: 0.8rem !important;
+      font-size: 0.98rem !important;
+    }
+
+    .embodied-project-links a {
+      color: #3157c8;
+      text-decoration: none;
+    }
+
+    @media (max-width: 900px) {
+      body {
+        padding: 18px 12px 40px;
+      }
+
+      .page {
+        padding: 18px;
+      }
+
+      .embodied-project-card {
+        grid-template-columns: 1fr;
+        gap: 0.9rem;
+      }
+
+      .embodied-project-title {
+        font-size: 1.45rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Recent Embodied AI-related Projects.</h1>
+
+    <section class="embodied-projects-showcase">
+      <div class="embodied-project-card">
+        <a class="embodied-project-media" href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">
+          <img src="../../images/projects/embodied-ai/freeaskworld.jpg" alt="FreeAskWorld image">
+        </a>
+        <div class="embodied-project-content">
+          <p class="embodied-project-meta">Embodied Social Interaction</p>
+          <h3 class="embodied-project-title"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">FreeAskWorld</a></h3>
+          <p>A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
+          <p class="embodied-project-links"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">Project</a></p>
+        </div>
+      </div>
+
+      <div class="embodied-project-card">
+        <a class="embodied-project-media" href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">
+          <img src="../../images/projects/embodied-ai/aerr-nav.png" alt="AERR-Nav image">
+        </a>
+        <div class="embodied-project-content">
+          <p class="embodied-project-meta">Navigation</p>
+          <h3 class="embodied-project-title"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">AERR-Nav</a></h3>
+          <p>A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
+          <p class="embodied-project-links"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">Project</a></p>
+        </div>
+      </div>
+
+      <div class="embodied-project-card">
+        <a class="embodied-project-media" href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">
+          <img src="../../images/projects/embodied-ai/egoproceassist.png" alt="EgoProceAssist image">
+        </a>
+        <div class="embodied-project-content">
+          <p class="embodied-project-meta">Smart Glasses</p>
+          <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
+          <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
+          <p class="embodied-project-links"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">Project</a></p>
+        </div>
+      </div>
+
+      <div class="embodied-project-card">
+        <a class="embodied-project-media" href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">
+          <img src="../../images/projects/embodied-ai/occprophet.png" alt="OccProphet image">
+        </a>
+        <div class="embodied-project-content">
+          <p class="embodied-project-meta">Autonomous Driving</p>
+          <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
+          <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
+          <p class="embodied-project-links"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">Project</a></p>
+        </div>
+      </div>
+
+      <div class="embodied-project-card">
+        <div class="embodied-project-media">
+          <img src="../../images/projects/embodied-ai/oe-vln-hinav.png" alt="OE-VLN HiNav image">
+        </div>
+        <div class="embodied-project-content">
+          <p class="embodied-project-meta">Vision-Language Navigation</p>
+          <h3 class="embodied-project-title">OE-VLN/HiNav</h3>
+          <p>An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>

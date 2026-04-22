@@ -1,0 +1,20 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="36" fill="#111419"/>
+  <rect x="26" y="26" width="908" height="488" rx="28" fill="url(#bg)"/>
+  <circle cx="208" cy="278" r="114" fill="#1C2F49" opacity="0.9"/>
+  <path d="M162 320L210 216L258 320H162Z" fill="#E8F0FF"/>
+  <rect x="486" y="136" width="306" height="34" rx="17" fill="#F4F8FF" opacity="0.92"/>
+  <rect x="486" y="198" width="248" height="18" rx="9" fill="#D7E3FF" opacity="0.86"/>
+  <rect x="486" y="230" width="286" height="18" rx="9" fill="#D7E3FF" opacity="0.68"/>
+  <rect x="486" y="262" width="172" height="18" rx="9" fill="#D7E3FF" opacity="0.48"/>
+  <rect x="486" y="324" width="194" height="56" rx="18" fill="#22273D"/>
+  <text x="96" y="106" fill="#F7FBFF" font-family="Arial, sans-serif" font-size="40" font-weight="700">OE-VLN / HiNav</text>
+  <text x="96" y="148" fill="#CDD6E4" font-family="Arial, sans-serif" font-size="22">Preview asset pending</text>
+  <text x="516" y="358" fill="#E8ECFF" font-family="Arial, sans-serif" font-size="20">Unitree Go2 validation</text>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="42" x2="902" y2="494" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2030"/>
+      <stop offset="1" stop-color="#4A587B"/>
+    </linearGradient>
+  </defs>
+</svg>

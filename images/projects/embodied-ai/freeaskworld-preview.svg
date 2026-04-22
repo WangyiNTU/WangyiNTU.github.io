@@ -1,0 +1,21 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="36" fill="#081726"/>
+  <rect x="30" y="30" width="900" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="210" cy="270" r="118" fill="#0F3B5F" opacity="0.9"/>
+  <circle cx="366" cy="214" r="54" fill="#1DA1A8" opacity="0.88"/>
+  <circle cx="430" cy="326" r="70" fill="#67D5B5" opacity="0.82"/>
+  <rect x="518" y="124" width="286" height="32" rx="16" fill="#EAF4FF" opacity="0.92"/>
+  <rect x="518" y="180" width="226" height="18" rx="9" fill="#8EC5FF" opacity="0.9"/>
+  <rect x="518" y="214" width="262" height="18" rx="9" fill="#8EC5FF" opacity="0.72"/>
+  <rect x="518" y="248" width="196" height="18" rx="9" fill="#8EC5FF" opacity="0.58"/>
+  <rect x="518" y="318" width="154" height="56" rx="18" fill="#102A43"/>
+  <text x="96" y="120" fill="#F7FBFF" font-family="Arial, sans-serif" font-size="42" font-weight="700">FreeAskWorld</text>
+  <text x="96" y="162" fill="#B8CCE0" font-family="Arial, sans-serif" font-size="22">Embodied social interaction simulator</text>
+  <text x="548" y="352" fill="#DDF4F2" font-family="Arial, sans-serif" font-size="20">Agent-ready interface</text>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="40" x2="902" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10263D"/>
+      <stop offset="1" stop-color="#133F63"/>
+    </linearGradient>
+  </defs>
+</svg>

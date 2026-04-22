@@ -1,0 +1,24 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="36" fill="#15121D"/>
+  <rect x="26" y="26" width="908" height="488" rx="28" fill="url(#bg)"/>
+  <rect x="106" y="138" width="178" height="258" rx="58" fill="#DCE8FF" opacity="0.92"/>
+  <rect x="130" y="170" width="130" height="194" rx="34" fill="#7AB2FF"/>
+  <rect x="204" y="182" width="154" height="18" rx="9" fill="#F9FDFF" opacity="0.92"/>
+  <rect x="204" y="218" width="192" height="18" rx="9" fill="#DBE8FF" opacity="0.85"/>
+  <rect x="204" y="254" width="166" height="18" rx="9" fill="#DBE8FF" opacity="0.7"/>
+  <rect x="204" y="318" width="206" height="54" rx="18" fill="#1F2940"/>
+  <rect x="506" y="132" width="286" height="34" rx="17" fill="#FFF7F1" opacity="0.92"/>
+  <rect x="506" y="196" width="252" height="18" rx="9" fill="#FFD3A8" opacity="0.85"/>
+  <rect x="506" y="228" width="276" height="18" rx="9" fill="#FFD3A8" opacity="0.68"/>
+  <rect x="506" y="260" width="184" height="18" rx="9" fill="#FFD3A8" opacity="0.5"/>
+  <circle cx="748" cy="350" r="82" fill="#FFAE6D" opacity="0.85"/>
+  <text x="96" y="108" fill="#F7FBFF" font-family="Arial, sans-serif" font-size="40" font-weight="700">EgoProceAssist</text>
+  <text x="96" y="440" fill="#D8D4E4" font-family="Arial, sans-serif" font-size="22">Smart-glasses procedural assistant</text>
+  <text x="234" y="351" fill="#E8F3FF" font-family="Arial, sans-serif" font-size="20">Step-by-step guidance</text>
+  <defs>
+    <linearGradient id="bg" x1="74" y1="40" x2="872" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1D39"/>
+      <stop offset="1" stop-color="#5D6ECF"/>
+    </linearGradient>
+  </defs>
+</svg>
