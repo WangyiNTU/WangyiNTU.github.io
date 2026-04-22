@@ -14,26 +14,14 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 2023, with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a __robotics center__ at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
-## Recent Embodied AI-related Projects.
+## Recent Embodied AI-related Projects
 <section class="embodied-projects-showcase">
-  <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/images/projects/embodied-ai/freeaskworld.jpg' | relative_url }}" alt="FreeAskWorld project image" loading="lazy">
-    </a>
-    <div class="embodied-project-content">
-      <p class="embodied-project-meta">Embodied Social Interaction</p>
-      <h3 class="embodied-project-title"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">FreeAskWorld</a></h3>
-      <p>A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
-      <p class="embodied-project-links"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">Project</a></p>
-    </div>
-  </div>
-
   <div class="embodied-project-card">
     <a class="embodied-project-media" href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/aerr-nav.png' | relative_url }}" alt="AERR-Nav project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">Navigation</p>
+      <p class="embodied-project-meta">2026 · Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">AERR-Nav</a></h3>
       <p>A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
       <p class="embodied-project-links"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">Project</a></p>
@@ -41,26 +29,14 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/images/projects/embodied-ai/egoproceassist.png' | relative_url }}" alt="EgoProceAssist project image" loading="lazy">
+    <a class="embodied-project-media" href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/projects/embodied-ai/freeaskworld.jpg' | relative_url }}" alt="FreeAskWorld project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">Smart Glasses</p>
-      <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
-      <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
-      <p class="embodied-project-links"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">Project</a></p>
-    </div>
-  </div>
-
-  <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/images/projects/embodied-ai/occprophet.png' | relative_url }}" alt="OccProphet project image" loading="lazy">
-    </a>
-    <div class="embodied-project-content">
-      <p class="embodied-project-meta">Autonomous Driving</p>
-      <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
-      <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
-      <p class="embodied-project-links"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">Project</a></p>
+      <p class="embodied-project-meta">2026 · Embodied Social Interaction</p>
+      <h3 class="embodied-project-title"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">FreeAskWorld</a></h3>
+      <p>A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
+      <p class="embodied-project-links"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 
@@ -69,9 +45,33 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/oe-vln-hinav.png' | relative_url }}" alt="OE-VLN HiNav project image" loading="lazy">
     </div>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">Vision-Language Navigation</p>
+      <p class="embodied-project-meta">2026 · Vision-Language Navigation</p>
       <h3 class="embodied-project-title">OE-VLN/HiNav</h3>
       <p>An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
+    </div>
+  </div>
+
+  <div class="embodied-project-card">
+    <a class="embodied-project-media" href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/projects/embodied-ai/occprophet.png' | relative_url }}" alt="OccProphet project image" loading="lazy">
+    </a>
+    <div class="embodied-project-content">
+      <p class="embodied-project-meta">2025 · Autonomous Driving</p>
+      <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
+      <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
+      <p class="embodied-project-links"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">Project</a></p>
+    </div>
+  </div>
+
+  <div class="embodied-project-card">
+    <a class="embodied-project-media" href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/projects/embodied-ai/egoproceassist.png' | relative_url }}" alt="EgoProceAssist project image" loading="lazy">
+    </a>
+    <div class="embodied-project-content">
+      <p class="embodied-project-meta">2025 · Smart Glasses</p>
+      <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
+      <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
+      <p class="embodied-project-links"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 </section>
