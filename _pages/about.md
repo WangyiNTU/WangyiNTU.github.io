@@ -21,10 +21,9 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/aerr-nav.png' | relative_url }}" alt="AERR-Nav project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Navigation</p>
+      <p class="embodied-project-meta">2026 · Multi-floor Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">AERR-Nav</a></h3>
       <p>A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
-      <p class="embodied-project-links"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 
@@ -36,7 +35,6 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <p class="embodied-project-meta">2026 · Embodied Social Interaction</p>
       <h3 class="embodied-project-title"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">FreeAskWorld</a></h3>
       <p>A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
-      <p class="embodied-project-links"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 
@@ -59,7 +57,6 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <p class="embodied-project-meta">2025 · Autonomous Driving</p>
       <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
       <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
-      <p class="embodied-project-links"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 
@@ -71,7 +68,6 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <p class="embodied-project-meta">2025 · Smart Glasses</p>
       <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
       <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
-      <p class="embodied-project-links"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">Project</a></p>
     </div>
   </div>
 </section>

@@ -91,7 +91,7 @@
 
 .embodied-project-title {
   margin: 0 0 0.65rem;
-  font-size: 1.7rem;
+  font-size: 1.45rem;
   line-height: 1.2;
 }
 
@@ -113,22 +113,6 @@
   line-height: 1.65;
 }
 
-.embodied-project-links {
-  margin-top: 0.8rem !important;
-  font-size: 0.98rem !important;
-}
-
-.embodied-project-links a {
-  color: #3157c8;
-  text-decoration: none;
-  margin-right: 1rem;
-}
-
-.embodied-project-links a:hover,
-.embodied-project-links a:focus {
-  text-decoration: underline;
-}
-
 @media (max-width: 900px) {
   .embodied-project-card {
     grid-template-columns: 1fr;
@@ -140,6 +124,6 @@
   }
 
   .embodied-project-title {
-    font-size: 1.3rem;
+    font-size: 1.15rem;
   }
 }
