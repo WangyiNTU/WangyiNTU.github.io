@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) (PI) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interests include __Egocentric Vision, Embodied Intelligence, 3D Vision, and Trustworthy AI__.
+Welcome! I am currently a [Research Assistant Professor](https://research.polyu.edu.hk/en/persons/yi-wang-3) (PI) in the Department of Electrical and Electronic Engineering ([EEE](https://www.polyu.edu.hk/eie/)), The Hong Kong Polytechnic University (香港理工大学, [PolyU](https://www.polyu.edu.hk/)). I am also working in the JC STEM Lab of Machine Learning and Computer Vision with [Prof. CHAU Lap Pui](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-chau-lap-pui/). My research interests include __Egocentric Vision, Embodied Intelligence, Agentic AI, and Trustworthy AI__.
 
 I received BEng in Electronic and Information Engineering and MEng in Signal and Information Processing from Northwestern Polytechnical University (西北工业大学, [NPU](https://en.nwpu.edu.cn/)), China, and earned PhD in the School of Electrical and Electronic Engineering ([EEE](https://www.ntu.edu.sg/eee/)) from Nanyang Technological University (南洋理工大学，[NTU](https://www.ntu.edu.sg/)), Singapore, in 2021, supervised by Prof. CHAU Lap Pui (formerly at NTU, now at PolyU).
 
