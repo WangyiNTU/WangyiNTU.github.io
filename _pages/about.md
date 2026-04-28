@@ -75,7 +75,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 ## News
 * [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
 * [2026.03] [\[__Nature Communications__\]](https://www.nature.com/articles/s41467-026-70917-y) (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
-* [2026.02] \[__CVPR_2026__\] (CCF-A) with __3__ papers accepted: [Hand-Object Interaction Video Synthesis](), [Intention-Driven 3D Affordance Grounding](https://arxiv.org/abs/2507.14686)(with [Code](https://github.com/RayYoh/Hammer)), and [Accelerating Diffusion-based Video Editing]().
+* [2026.02] \[__CVPR_2026__\] (__CCF-A__) with __3__ papers accepted: [Hand-Object Interaction Video Synthesis for Embodied Data Augmentation](https://hvg3d.github.io/), [Intention-Driven 3D Affordance Grounding for Embodied Perception](https://github.com/RayYoh/Hammer), and [Accelerating Diffusion-based Video Editing](https://arxiv.org/abs/2603.24260).
 * [2026.01] [\[__ICLR 2026__\]](https://openreview.net/forum?id=RYwQ0xQcAh) [__Egocentric AI__] Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
 * [2025.10] [\[__NeurIPS 2025__\]](https://arxiv.org/abs/2509.19360) [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
 * [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (__CCF-A__)
