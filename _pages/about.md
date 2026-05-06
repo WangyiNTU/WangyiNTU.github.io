@@ -73,6 +73,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 </section>
 
 ## News
+* [2026.05] [\[__ICML 2026__\]]() [__Multimodal Reasoning__] EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding (Supervised undergraduate's final year project).
 * [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
 * [2026.03] [\[__Nature Communications__\]](https://www.nature.com/articles/s41467-026-70917-y) (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
 * [2026.02] \[__CVPR_2026__\] (__CCF-A__) with __3__ papers accepted: [Hand-Object Interaction Video Synthesis for Embodied Data Augmentation](https://hvg3d.github.io/), [Intention-Driven 3D Affordance Grounding for Embodied Perception](https://github.com/RayYoh/Hammer), and [Accelerating Diffusion-based Video Editing](https://arxiv.org/abs/2603.24260).
