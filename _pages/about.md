@@ -14,8 +14,19 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 2023, with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a __robotics center__ at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
-## Recent Embodied AI-related Projects
+## Recent Interactive and Embodied AI Projects
 <section class="embodied-projects-showcase">
+  <div class="embodied-project-card">
+    <a class="embodied-project-media" href="https://kim-os.github.io/SEDualVLN" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/projects/embodied-ai/sedualvln.png' | relative_url }}" alt="SEDualVLN project image" loading="lazy">
+    </a>
+    <div class="embodied-project-content">
+      <p class="embodied-project-meta">2026 · Vision-Language Navigation</p>
+      <h3 class="embodied-project-title"><a href="https://kim-os.github.io/SEDualVLN" target="_blank" rel="noopener noreferrer">SEDualVLN</a></h3>
+      <p>A spatially-enhanced <strong>dual-system</strong> VLN framework that pairs a spatially-aware VLM policy with an MLLM waypoint planner over a 3D map, achieving <strong>state-of-the-art</strong> results on VLN-CE benchmarks.</p>
+    </div>
+  </div>
+
   <div class="embodied-project-card">
     <a class="embodied-project-media" href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/aerr-nav.png' | relative_url }}" alt="AERR-Nav project image" loading="lazy">
@@ -46,6 +57,17 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <p class="embodied-project-meta">2026 · Vision-Language Navigation</p>
       <h3 class="embodied-project-title">OE-VLN/HiNav</h3>
       <p>An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
+    </div>
+  </div>
+
+  <div class="embodied-project-card">
+    <a class="embodied-project-media" href="https://z1oong.github.io/GUI-C2/" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/projects/embodied-ai/gui-c2.png' | relative_url }}" alt="GUI-C2 project image" loading="lazy">
+    </a>
+    <div class="embodied-project-content">
+      <p class="embodied-project-meta">2026 · GUI Agent / Reinforcement Learning</p>
+      <h3 class="embodied-project-title"><a href="https://z1oong.github.io/GUI-C2/" target="_blank" rel="noopener noreferrer">GUI-C2</a></h3>
+      <p>A coarse-to-fine <strong>GUI grounding</strong> framework that pairs difficulty-aware data curation with area-gated refinement and improvement-aware stage rewards, achieving <strong>state-of-the-art</strong> performance on ScreenSpot-Pro with only 4,624 training samples.</p>
     </div>
   </div>
 
