@@ -95,22 +95,22 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 </section>
 
 ## News
-* [2026.06] [ECCV 2026](https://arxiv.org/abs/2606.28077) TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts
+* [2026.06] [**ECCV 2026**] [Link](https://arxiv.org/abs/2606.28077) TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts
 * [2026.05] [\[__ICML 2026__\]] [\[__Multimodal Reasoning__\]] EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding (Supervised undergraduate's final year project). [Link](https://arxiv.org/abs/2605.14742)
 * [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
-* [2026.03] [Nature Communications](https://www.nature.com/articles/s41467-026-70917-y) (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
+* [2026.03] [**Nature Communications**] [Link](https://www.nature.com/articles/s41467-026-70917-y) (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models
 * [2026.02] \[__CVPR_2026__\] (__CCF-A__) with __3__ papers accepted: Hand-Object Interaction Video Synthesis for Embodied Data Augmentation [Link](https://hvg3d.github.io/), Intention-Driven 3D Affordance Grounding for Embodied Perception [Link](https://github.com/RayYoh/Hammer), and Accelerating Diffusion-based Video Editing [Link](https://arxiv.org/abs/2603.24260).
-* [2026.01] [ICLR 2026](https://openreview.net/forum?id=RYwQ0xQcAh) [Egocentric AI] Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
+* [2026.01] [**ICLR 2026**] [Egocentric AI] [Link](https://openreview.net/forum?id=RYwQ0xQcAh) Interaction-aware Representation Modeling With Co-Occurrence Consistency for Egocentric Hand-Object Parsing.
 * [2025.10] [\[__NeurIPS 2025__\]] [__LLM Vulnerability__] Semantic Representation Attack against Aligned Large Language Models, with [code](https://github.com/JiaweiLian/SRA)
 * [2025.09] I served as __Area Chair__ at [ICLR 2026](https://iclr.cc/) (__CCF-A__)
 * [2025.09] I was in the role of __Associate Editor__ of [Computers and Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering) Journal (JCR Q1)
 * [2025.07] \[__ACM Multimedia__\] (CCF-A) with __4__ papers accepted: 3D Representation Learning [Link](https://arxiv.org/abs/2508.02172), Open-vocabulary Situation Recognition [Link](https://arxiv.org/abs/2507.14686), Bitstream-corrupted Video Recovery [Link](https://arxiv.org/abs/2507.22481), and Few-Shot Class-Incremental Learning [Link](https://dl.acm.org/doi/abs/10.1145/3746027.3755306).
-* [2025.07] [IEEE TITS](https://ieeexplore.ieee.org/abstract/document/11106397) (IF: 8.4) Signeye: Traffic sign interpretation from vehicle first-person view
-* [2025.06] [IEEE TMM](https://arxiv.org/abs/2506.09541) (IF: 9.7) 3DGeoDet: General-purpose Geometry-aware Image-based 3D Object Detection
-* [2025.05] [IEEE TITS](https://ieeexplore.ieee.org/abstract/document/11000439) (IF: 8.4) Occlutrack: Rethinking awareness of occlusion for enhancing multiple pedestrian tracking
-* [2025.05] [Knowledge-based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705125009141) (IF: 7.6) Foundation model-assisted interpretable vehicle behavior decision making
+* [2025.07] [**IEEE TITS**] (IF: 8.4) Signeye [Link](https://ieeexplore.ieee.org/abstract/document/11106397): Traffic sign interpretation from vehicle first-person view
+* [2025.06] [**IEEE TMM**] (IF: 9.7) 3DGeoDet [Link](https://arxiv.org/abs/2506.09541): General-purpose Geometry-aware Image-based 3D Object Detection
+* [2025.05] [**IEEE TITS**] (IF: 8.4) Occlutrack [Link](https://ieeexplore.ieee.org/abstract/document/11000439): Rethinking awareness of occlusion for enhancing multiple pedestrian tracking
+* [2025.05] [**Knowledge-based Systems**] (IF: 7.6) Foundation model-assisted interpretable vehicle behavior decision making [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705125009141)
 * [2025.05] [\[__Information Fusion__\]] (IF: 15.5) Contrastive learning-based place descriptor representation for cross-modality place recognition, [code](https://github.com/emilyemliyM/Cross-PRNet)
-* [2025.04] [Machine Intelligence Research](https://link.springer.com/article/10.1007/s11633-025-1542-8) (IF: 8.7) A survey of embodied learning for object-centric robotic manipulation
+* [2025.04] [**Machine Intelligence Research**] (IF: 8.7) A survey of embodied learning for object-centric robotic manipulation [Link](https://link.springer.com/article/10.1007/s11633-025-1542-8)
 * [2025.03] [\[__CVPR 2025__\]] [__Egocentric Reasoning__] ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction, with [code](https://yuggiehk.github.io/annexe/)
 * [2025.02] [\[__ICLR 2025__\]] [__Autonomous Driving Perception__] OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework, with [code](https://github.com/JLChen-C/OccProphet)
 * [2025.01] \[__IEEE JSTARS__\] (JCR Q1) We organized a [special issue](https://www.grss-ieee.org/wp-content/uploads/2024/12/cfp_Scene-Analysis-and-Understanding-in-the-Intelligent-Transportation-for-Urban-Area.pdf), *Scene Analysis and Understanding in the Intelligent Transportation for Urban Area*. Deadline: Jul 31, 2025.
@@ -125,8 +125,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 * [2024.05] We chaired a special session in [ISCAS 2024](https://epapers2.org/iscas2024/ESR/session_view.php?session_id=53)
 * [2024.04] We chaired a special session in [ICASSP 2024](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1318)
 * [2024.02] [\[__Knowledge-based Systems__\]] (IF: 7.6) Intra- and Inter-sector Contextual Information Fusion with Joint Self-Attention for File Fragment Classification, with [code](https://github.com/WangyiNTU/JSANet)
-* [2024.01] [Knowledge-based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686) (IF: 7.6) Weakly-Supervised Grounded Image Captioning
-* [2024.01] [Remote Sensing](https://www.mdpi.com/2072-4292/15/23/5611) Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning
+* [2024.01] [**Knowledge-based Systems**] (IF: 7.6) Weakly-Supervised Grounded [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000686) Image Captioning
+* [2024.01] [**Remote Sensing**] Interactive Change-Aware [Link](https://www.mdpi.com/2072-4292/15/23/5611) Transformer Network for Remote Sensing Image Change Captioning
 * [2023.10] I am one of __Special Session Chair__ and __Review Committee Members__ of the [ISCAS 2024](https://2024.ieee-iscas.org).
 * [2023.09] We organized a [special issue](https://www.springer.com/journal/11042/updates/26069580), *AI-powered multimedia computing*, in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) Journal, as __Guest Editor__
 * [2023.09] [\[__NeurIPS 2023__\]] Bitstream-corrupted Video Recovery: A Novel Benchmark Dataset and Method, with [dataset](https://github.com/LIUTIGHE/BSCV-Dataset)
