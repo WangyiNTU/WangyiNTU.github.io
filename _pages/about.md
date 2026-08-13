@@ -14,7 +14,7 @@ I received BEng in Electronic and Information Engineering and MEng in Signal and
 
 Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 2023, with PI [A/P YAP Kim Hui](https://dr.ntu.edu.sg/cris/rp/rp01044). Prior to going to Singapore, I was involved in national projects and a __robotics center__ at NPU, China, supervised by [Prof. WAN Shuai](https://teacher.nwpu.edu.cn/en/wanshuai.html) and [Prof. MEI Shaohui](https://teacher.nwpu.edu.cn/en/meishaohui.html).
 
-## Recent Interactive and Embodied AI Projects
+## Recent Interactive and Physical AI Projects
 <section class="embodied-projects-showcase">
   <div class="embodied-project-card">
     <a class="embodied-project-media" href="https://kim-os.github.io/SEDualVLN" target="_blank" rel="noopener noreferrer">
