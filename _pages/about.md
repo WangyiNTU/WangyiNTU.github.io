@@ -54,7 +54,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/sedualvln.png' | relative_url }}" alt="SEDualVLN project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Vision-Language Navigation</p>
+      <p class="embodied-project-meta">2026 · Spatially-enhanced Vision-Language Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/SEDualVLN" target="_blank" rel="noopener noreferrer">SEDualVLN</a></h3>
       <p>A spatially-enhanced <strong>dual-system</strong> VLN framework that pairs a spatially-aware VLM policy with an MLLM waypoint planner over a 3D map, achieving <strong>state-of-the-art</strong> results on VLN-CE benchmarks.</p>
     </div>
@@ -65,7 +65,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/aerr-nav.png' | relative_url }}" alt="AERR-Nav project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Multi-floor Navigation</p>
+      <p class="embodied-project-meta">2026 · Multi-floor Zero-shot Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">AERR-Nav</a></h3>
       <p>A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
     </div>
@@ -87,7 +87,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/oe-vln-hinav.png' | relative_url }}" alt="OE-VLN HiNav project image" loading="lazy">
     </div>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Vision-Language Navigation</p>
+      <p class="embodied-project-meta">2026 · Open-ended Vision-Language Navigation</p>
       <h3 class="embodied-project-title">OE-VLN/HiNav</h3>
       <p>An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
     </div>
@@ -109,7 +109,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/occprophet.png' | relative_url }}" alt="OccProphet project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2025 · Autonomous Driving</p>
+      <p class="embodied-project-meta">ICLR 2025 · Autonomous Driving Perception</p>
       <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
       <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
     </div>
@@ -120,7 +120,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/egoproceassist.png' | relative_url }}" alt="EgoProceAssist project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2025 · Smart Glasses</p>
+      <p class="embodied-project-meta">2025 · Smart Glasses Assistance</p>
       <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
       <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
     </div>
