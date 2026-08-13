@@ -17,33 +17,33 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 ## Recent Interactive and Physical AI Projects
 <section class="embodied-projects-showcase">
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/egoprocevqa.png' | relative_url }}" alt="EgoProceVQA project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">ACM Multimedia 2026 · Egocentric Vision</p>
+      <p class="embodied-project-meta">ACM Multimedia 2026 · Egocentric Procedural Reasoning</p>
       <h3 class="embodied-project-title"><a href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">EgoProceVQA</a></h3>
       <p>A novel egocentric procedural understanding VQA task with a self-skill-exploration agentic framework (<strong>EgoProceAgent</strong>). The agent autonomously explores and composes sub-skills for procedural reasoning, achieving state-of-the-art results on key-step-centric VQA benchmarks.</p>
     </div>
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/hvg3d.png' | relative_url }}" alt="HVG-3D project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">CVPR 2026 · Hand-Object Interaction</p>
+      <p class="embodied-project-meta">CVPR 2026 · Hand-Object Interaction Video Generation</p>
       <h3 class="embodied-project-title"><a href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">HVG-3D</a></h3>
       <p>A unified 3D-aware hand-object interaction video synthesis framework via a diffusion-based architecture augmented with a <strong>3D ControlNet</strong>. Encodes geometric and motion cues from 3D inputs for explicit spatial reasoning and temporally consistent video generation.</p>
     </div>
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/earl.png' | relative_url }}" alt="EARL project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">ICML 2026 · Egocentric Reasoning</p>
+      <p class="embodied-project-meta">ICML 2026 · Egocentric Interaction Reasoning</p>
       <h3 class="embodied-project-title"><a href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">EARL</a></h3>
       <p>A unified analysis-guided reinforcement learning (GRPO) framework for egocentric interaction reasoning and pixel grounding. Adopts a coarse-to-fine design with an <strong>Analysis-guided Feature Synthesizer</strong> (AFS) bridging interpretation and response stages.</p>
     </div>

@@ -69,6 +69,11 @@
   object-fit: cover;
 }
 
+.embodied-project-media--contain img {
+  object-fit: contain;
+  background: #ffffff;
+}
+
 .embodied-project-media:hover {
   opacity: 0.96;
 }
