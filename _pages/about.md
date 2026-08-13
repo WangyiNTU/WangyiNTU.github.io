@@ -17,7 +17,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 ## Recent Interactive and Physical AI Projects
 <section class="embodied-projects-showcase">
   <div class="embodied-project-card">
-    <a class="embodied-project-media embodied-project-media--contain" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/egoprocevqa.png' | relative_url }}" alt="EgoProceVQA project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
@@ -28,7 +28,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media embodied-project-media--contain" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/hvg3d.png' | relative_url }}" alt="HVG-3D project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
@@ -39,7 +39,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media embodied-project-media--contain" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/earl.png' | relative_url }}" alt="EARL project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
