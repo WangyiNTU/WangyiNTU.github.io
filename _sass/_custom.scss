@@ -70,6 +70,8 @@
 }
 
 .embodied-project-media--contain img {
+  box-sizing: border-box;
+  padding: 6px;
   object-fit: contain;
   background: #ffffff;
 }

@@ -17,7 +17,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 ## Recent Interactive and Physical AI Projects
 <section class="embodied-projects-showcase">
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/egoprocevqa.png' | relative_url }}" alt="EgoProceVQA project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
@@ -28,7 +28,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/hvg3d.png' | relative_url }}" alt="HVG-3D project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
@@ -39,7 +39,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
   </div>
 
   <div class="embodied-project-card">
-    <a class="embodied-project-media" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
+    <a class="embodied-project-media embodied-project-media--contain" href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/projects/embodied-ai/earl.png' | relative_url }}" alt="EARL project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
@@ -128,7 +128,12 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 </section>
 
 ## News
-* [2026.06] [**ECCV 2026**] TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts. [Link](https://arxiv.org/abs/2606.28077)
+* [2026.10] I was invited to serve as __Associate Editor__ at [IEEE ICRA 2027](https://2027.ieee-icra.org/).
+* [2026.09] I was invited to serve as __Area Chair__ at [ICLR 2027](https://iclr.cc/Conferences/2027) (__CCF-A__)
+* [2026.09] [**EMNLP 2026**] EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI. [Link](https://arxiv.org/abs/2608.24134)
+* [2026.08] [**ACM Multimedia 2026**] (CCF-A) with __2__ papers accepted: [EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent](https://arxiv.org/abs/2607.13792) and [SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding](https://arxiv.org/abs/2608.30451).
+* [2026.08] [**IEEE TCSVT**] (IF: 10.8) GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection. [Link](https://ieeexplore.ieee.org/abstract/document/11690663)
+* [2026.06] [**ECCV 2026**] TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection Under Distribution Shifts. [Link](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_27)
 * [2026.05] [**ICML 2026**] [**Multimodal Reasoning**] EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding (Supervised undergraduate's final year project). [Link](https://arxiv.org/abs/2605.14742)
 * [2026.04] I served as __Area Chair__ at [NeurIPS 2026](https://neurips.cc/) (__CCF-A__)
 * [2026.03] [**Nature Communications**] (IF: 15.7) Revealing the Intrinsic Ethical Vulnerability of Aligned Large Language Models. [Link](https://www.nature.com/articles/s41467-026-70917-y)
@@ -172,7 +177,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 
 
 ## Recruitment/招生
-We are actively recruiting self-motivated PhD and MPhil (self-finance) students with expertise in embodied intelligence, agentic AI, spatial intelligence, and computer vision, to join our research group at the Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/), [PolyU Presidential PhD Fellowship](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/?sc_lang=en), [Joint PhD Supervision Leading to PolyU degree](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-programmes-leading-to-a-polyu-degree/), and [Joint PhD Supervision](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-schemes/) (specific universities/institutes). More application information can be found at this [link](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/).
+Our group are actively recruiting self-motivated PhD and MPhil (self-finance) students with expertise in embodied intelligence, agentic AI, spatial intelligence, and computer vision, to join our research group at the Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/), [PolyU Presidential PhD Fellowship](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), [Joint PhD Supervision Leading to PolyU degree](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-programmes-leading-to-a-polyu-degree/), and [Joint PhD Supervision](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-schemes/) (specific universities/institutes). More application information can be found in the [application guide](https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/), [RPgAdmission System](https://rpgadmission.polyu.edu.hk/), and [PhD Info Week 2026](https://www.polyu.edu.hk/gs/news-and-events/phd-info-week-2026/).
 
 
 <!---
