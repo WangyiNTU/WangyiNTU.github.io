@@ -21,9 +21,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/egoprocevqa.png' | relative_url }}" alt="EgoProceVQA project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">ACM Multimedia 2026 · Egocentric Procedural Reasoning</p>
       <h3 class="embodied-project-title"><a href="https://z1oong.github.io/EgoProceVQA/" target="_blank" rel="noopener noreferrer">EgoProceVQA</a></h3>
-      <p>A novel egocentric procedural understanding VQA task with a self-skill-exploration agentic framework (<strong>EgoProceAgent</strong>). The agent autonomously explores and composes sub-skills for procedural reasoning, achieving state-of-the-art results on key-step-centric VQA benchmarks.</p>
+      <p><strong>Egocentric Procedural Reasoning (ACM-MM'26).</strong> A novel egocentric procedural understanding VQA task with a self-skill-exploration agentic framework (<strong>EgoProceAgent</strong>). The agent autonomously explores and composes sub-skills for procedural reasoning, achieving state-of-the-art results on key-step-centric VQA benchmarks.</p>
     </div>
   </div>
 
@@ -32,9 +31,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/hvg3d.png' | relative_url }}" alt="HVG-3D project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">CVPR 2026 · Hand-Object Interaction Video Generation</p>
       <h3 class="embodied-project-title"><a href="https://hvg3d.github.io/" target="_blank" rel="noopener noreferrer">HVG-3D</a></h3>
-      <p>A unified 3D-aware hand-object interaction video synthesis framework via a diffusion-based architecture augmented with a <strong>3D ControlNet</strong>. Encodes geometric and motion cues from 3D inputs for explicit spatial reasoning and temporally consistent video generation.</p>
+      <p><strong>Hand-Object Interaction Video Generation (CVPR'26).</strong> A unified 3D-aware hand-object interaction video synthesis framework via a diffusion-based architecture augmented with a <strong>3D ControlNet</strong>. Encodes geometric and motion cues from 3D inputs for explicit spatial reasoning and temporally consistent video generation.</p>
     </div>
   </div>
 
@@ -43,9 +41,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/earl.png' | relative_url }}" alt="EARL project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">ICML 2026 · Egocentric Interaction Reasoning</p>
       <h3 class="embodied-project-title"><a href="https://github.com/yuggiehk/EARL" target="_blank" rel="noopener noreferrer">EARL</a></h3>
-      <p>A unified analysis-guided reinforcement learning (GRPO) framework for egocentric interaction reasoning and pixel grounding. Adopts a coarse-to-fine design with an <strong>Analysis-guided Feature Synthesizer</strong> (AFS) bridging interpretation and response stages.</p>
+      <p><strong>Egocentric Interaction Reasoning (ICML'26).</strong> A unified analysis-guided reinforcement learning (GRPO) framework for egocentric interaction reasoning and pixel grounding. Adopts a coarse-to-fine design with an <strong>Analysis-guided Feature Synthesizer</strong> (AFS) bridging interpretation and response stages.</p>
     </div>
   </div>
 
@@ -54,9 +51,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/sedualvln.png' | relative_url }}" alt="SEDualVLN project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Spatially-enhanced Vision-Language Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/SEDualVLN" target="_blank" rel="noopener noreferrer">SEDualVLN</a></h3>
-      <p>A spatially-enhanced <strong>dual-system</strong> VLN framework that pairs a spatially-aware VLM policy with an MLLM waypoint planner over a 3D map, achieving <strong>state-of-the-art</strong> results on VLN-CE benchmarks.</p>
+      <p><strong>Spatially-enhanced Vision-Language Navigation (2026).</strong> A spatially-enhanced <strong>dual-system</strong> VLN framework that pairs a spatially-aware VLM policy with an MLLM waypoint planner over a 3D map, achieving <strong>state-of-the-art</strong> results on VLN-CE benchmarks.</p>
     </div>
   </div>
 
@@ -65,9 +61,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/aerr-nav.png' | relative_url }}" alt="AERR-Nav project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Multi-floor Zero-shot Navigation</p>
       <h3 class="embodied-project-title"><a href="https://kim-os.github.io/AERR-Nav" target="_blank" rel="noopener noreferrer">AERR-Nav</a></h3>
-      <p>A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
+      <p><strong>Multi-floor Zero-shot Navigation (2026).</strong> A zero-shot object navigation framework for unknown <strong>multi-floor environments</strong>, achieving state-of-the-art results on open-world indoor navigation.</p>
     </div>
   </div>
 
@@ -76,9 +71,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/freeaskworld.jpg' | relative_url }}" alt="FreeAskWorld project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Embodied Social Interaction</p>
       <h3 class="embodied-project-title"><a href="https://github.com/AIR-DISCOVER/FreeAskWorld" target="_blank" rel="noopener noreferrer">FreeAskWorld</a></h3>
-      <p>A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
+      <p><strong>Embodied Social Interaction (2026).</strong> A simulation framework for <strong>embodied social interaction</strong> and scalable data generation, with integration of <strong>AI agent interfaces</strong> such as OpenClaw, Codex, and Claude Code.</p>
     </div>
   </div>
 
@@ -87,9 +81,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/oe-vln-hinav.png' | relative_url }}" alt="OE-VLN HiNav project image" loading="lazy">
     </div>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · Open-ended Vision-Language Navigation</p>
       <h3 class="embodied-project-title">OE-VLN/HiNav</h3>
-      <p>An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
+      <p><strong>Open-ended Vision-Language Navigation (2026).</strong> An open-ended vision-language navigation framework, including benchmark, method, and real-world validation on a Unitree Go2 robot.</p>
     </div>
   </div>
 
@@ -98,9 +91,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/gui-c2.png' | relative_url }}" alt="GUI-C2 project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2026 · GUI Agent / Reinforcement Learning</p>
       <h3 class="embodied-project-title"><a href="https://z1oong.github.io/GUI-C2/" target="_blank" rel="noopener noreferrer">GUI-C2</a></h3>
-      <p>A coarse-to-fine <strong>GUI grounding</strong> framework that pairs difficulty-aware data curation with area-gated refinement and improvement-aware stage rewards, achieving <strong>state-of-the-art</strong> performance on ScreenSpot-Pro with only 4,624 training samples.</p>
+      <p><strong>GUI Agent / Reinforcement Learning (2026).</strong> A coarse-to-fine <strong>GUI grounding</strong> framework that pairs difficulty-aware data curation with area-gated refinement and improvement-aware stage rewards, achieving <strong>state-of-the-art</strong> performance on ScreenSpot-Pro with only 4,624 training samples.</p>
     </div>
   </div>
 
@@ -109,9 +101,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/occprophet.png' | relative_url }}" alt="OccProphet project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">ICLR 2025 · Autonomous Driving Perception</p>
       <h3 class="embodied-project-title"><a href="https://github.com/JLChen-C/OccProphet" target="_blank" rel="noopener noreferrer">OccProphet</a></h3>
-      <p>A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
+      <p><strong>Autonomous Driving Perception (ICLR'25).</strong> A camera-only 4D occupancy forecasting project for autonomous driving, designed to improve efficiency while preserving strong forecasting accuracy.</p>
     </div>
   </div>
 
@@ -120,9 +111,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
       <img src="{{ '/images/projects/embodied-ai/egoproceassist.png' | relative_url }}" alt="EgoProceAssist project image" loading="lazy">
     </a>
     <div class="embodied-project-content">
-      <p class="embodied-project-meta">2025 · Smart Glasses Assistance</p>
       <h3 class="embodied-project-title"><a href="https://github.com/z1oong/Building-Egocentric-Procedural-AI-Assistant" target="_blank" rel="noopener noreferrer">EgoProceAssist</a></h3>
-      <p>A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
+      <p><strong>Smart Glasses Assistance (2025).</strong> A novel egocentric procedural AI assistant for <strong>smart glasses</strong>, tailored to deliver step-by-step support for daily procedural tasks.</p>
     </div>
   </div>
 </section>
@@ -178,6 +168,8 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 
 ## Recruitment/招生
 Our group are actively recruiting self-motivated PhD and MPhil (self-finance) students with expertise in embodied intelligence, agentic AI, spatial intelligence, and computer vision, to join our research group at the Hong Kong Polytechnic University. Strong candidates can contact me to be nominated for [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/), [PolyU Presidential PhD Fellowship](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/), [Joint PhD Supervision Leading to PolyU degree](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-programmes-leading-to-a-polyu-degree/), and [Joint PhD Supervision](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-schemes/) (specific universities/institutes). More application information can be found in the [application guide](https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/), [RPgAdmission System](https://rpgadmission.polyu.edu.hk/), and [PhD Info Week 2026](https://www.polyu.edu.hk/gs/news-and-events/phd-info-week-2026/).
+
+Due to the high volume of emails, only applicants shortlisted for an interview will receive a reply.
 
 
 <!---
