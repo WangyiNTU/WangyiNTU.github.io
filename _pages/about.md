@@ -120,6 +120,7 @@ Prior to joining PolyU, I worked as a Research Fellow in EEE at NTU until March 
 ## News
 * [2026.10] I was invited to serve as __Associate Editor__ at [IEEE ICRA 2027](https://2027.ieee-icra.org/).
 * [2026.09] I was invited to serve as __Area Chair__ at [ICLR 2027](https://iclr.cc/Conferences/2027) (__CCF-A__)
+* [2026.09] [**IEEE TPAMI**] (IF: 20.4) LLM-Agnostic Semantic Representation Attack, [Code](https://github.com/JiaweiLian/SRA) [Link](https://doi.org/10.1109/TPAMI.2026.3735535)
 * [2026.09] [**EMNLP 2026**] EgoErrorVQA: Assess Egocentric Comprehension Capabilities through Procedural Errors for Ego-Agentic AI. [Link](https://arxiv.org/abs/2608.24134)
 * [2026.08] [**ACM Multimedia 2026**] (CCF-A) with __2__ papers accepted: [EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent](https://arxiv.org/abs/2607.13792) and [SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding](https://arxiv.org/abs/2608.30451).
 * [2026.08] [**IEEE TCSVT**] (IF: 10.8) GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection. [Link](https://ieeexplore.ieee.org/abstract/document/11690663)
